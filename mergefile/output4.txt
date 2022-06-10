@@ -1,0 +1,2661 @@
+gneE4_1 100.00 :gneJ8_1_0
+:gneJ8_1_0 0.10 gneE5_1
+gneE5_1 100.00 :gneJ9_1_0
+:gneJ9_1_0 0.10 gneE7_1
+gneE7_1 92.80 :gneJ11_4_0 :gneJ11_5_0
+:gneJ11_4_0 9.03 gneE22_1
+:gneJ11_5_0 14.19 gneE47_1
+gneE22_1 92.80 :gneJ28_0_0
+gneE47_1 85.60 :gneJ10_2_0 :gneJ10_3_0
+:gneJ28_0_0 0.10 gneE23_1
+:gneJ10_2_0 14.40 gneE8_1
+:gneJ10_3_0 5.93 :gneJ10_7_0
+gneE23_1 100.00 :gneJ29_0_0
+gneE8_1 92.80 :gneJ12_1_0
+:gneJ10_7_0 8.26 -gneE6_1
+:gneJ29_0_0 0.10 gneE24_1
+:gneJ12_1_0 0.10 gneE9_1
+-gneE6_1 92.80 :gneJ6_0_0
+gneE24_1 100.00 :gneJ30_0_0
+gneE9_1 100.00 :gneJ13_1_0
+:gneJ6_0_0 0.10 -gneE3_1
+:gneJ30_0_0 0.10 gneE25_1
+:gneJ13_1_0 0.10 gneE10_1
+-gneE3_1 100.00 :gneJ5_0_0
+gneE25_1 92.80 :gneJ31_0_0 :gneJ31_1_0
+gneE10_1 100.00 :gneJ14_1_0
+:gneJ5_0_0 0.10 -gneE2_1
+:gneJ31_0_0 14.40 gneE26_1
+:gneJ31_1_0 5.93 :gneJ31_6_0
+:gneJ14_1_0 0.10 gneE11_1
+gneE26_1 92.80 :gneJ32_0_0
+:gneJ31_6_0 8.26 gneE35_1
+gneE11_1 92.80 :gneJ15_4_0 :gneJ15_5_0
+:gneJ32_0_0 0.10 gneE27_1
+gneE35_1 92.80 :gneJ42_1_0
+:gneJ15_4_0 4.75 :gneJ15_7_0
+:gneJ15_5_0 14.40 gneE12_1
+gneE27_1 92.80 :gneJ33_0_0 :gneJ33_1_0
+:gneJ42_1_0 0.10 gneE36_1
+:gneJ15_7_0 4.28 gneE49_1
+gneE12_1 92.80 :gneJ16_1_0
+:gneJ33_0_0 14.40 gneE28_1
+:gneJ33_1_0 5.93 :gneJ33_6_0
+gneE36_1 92.80 :gneJ43_4_0 :gneJ43_5_0
+gneE49_1 92.80 :gneJ55_1_0
+:gneJ16_1_0 0.10 gneE13_1
+gneE28_1 92.80 :gneJ34_0_0
+:gneJ33_6_0 8.26 gneE40_1
+:gneJ43_4_0 4.75 :gneJ43_7_0
+:gneJ43_5_0 14.40 gneE37_1
+:gneJ55_1_0 0.10 gneE52_1
+gneE13_1 92.80 :gneJ17_4_0 :gneJ17_5_0
+:gneJ34_0_0 0.10 gneE29_1
+gneE40_1 92.80 :gneJ48_1_0
+:gneJ43_7_0 4.28 gneE45_1
+gneE37_1 92.80 :gneJ44_1_0
+gneE52_1 92.80 :gneJ58_4_0 :gneJ58_5_0
+:gneJ17_4_0 4.75 :gneJ17_7_0
+:gneJ17_5_0 14.40 gneE15_1
+gneE29_1 100.00 :gneJ35_0_0
+:gneJ48_1_0 0.10 gneE42_1
+gneE45_1 92.80 :gneJ53_0_0
+:gneJ44_1_0 0.10 gneE38_1
+:gneJ58_4_0 14.40 gneE53_1
+:gneJ58_5_0 5.93 :gneJ58_7_0
+:gneJ17_7_0 4.28 gneE55_1
+gneE15_1 92.80 :gneJ19_1_0
+:gneJ35_0_0 0.10 gneE30_1
+gneE42_1 92.80 :gneJ50_4_0 :gneJ50_5_0
+:gneJ53_0_0 0.10 gneE46_1
+gneE38_1 92.80 :gneJ45_9_0 :gneJ45_10_0 :gneJ45_11_0
+gneE53_1 92.80 :gneJ59_1_0
+:gneJ58_7_0 8.26 -gneE64_1
+gneE55_1 92.80 :gneJ61_1_0
+:gneJ19_1_0 0.10 gneE16_1
+gneE30_1 100.00 :gneJ36_0_0
+:gneJ50_4_0 14.40 gneE43_1
+:gneJ50_5_0 5.93 :gneJ50_7_0
+gneE46_1 92.80 :gneJ50_0_0 :gneJ50_1_0
+:gneJ45_9_0 9.03 gneE83_1
+:gneJ45_10_0 14.40 gneE85_1
+:gneJ45_11_0 14.19 -gneE82_1
+:gneJ59_1_0 0.10 gneE54_1
+-gneE64_1 92.80 :gneJ67_1_0
+:gneJ61_1_0 0.10 gneE56_1
+gneE16_1 100.00 :gneJ20_1_0
+:gneJ36_0_0 0.10 gneE31_1
+gneE43_1 92.80 :gneJ51_1_0
+:gneJ50_7_0 8.26 -gneE46_1
+:gneJ50_0_0 9.03 -gneE42_1
+:gneJ50_1_0 14.19 gneE43_1
+gneE83_1 92.80 :gneJ83_0_0
+gneE85_1 92.80 :gneJ84_1_0
+-gneE82_1 92.80 :gneJ82_1_0
+gneE54_1 92.80 :gneJ60_9_0 :gneJ60_10_0 :gneJ60_11_0
+:gneJ67_1_0 0.10 -gneE63_1
+gneE56_1 92.80 :gneJ62_4_0 :gneJ62_5_0
+:gneJ20_1_0 0.10 gneE17_1
+gneE31_1 100.00 :gneJ37_0_0
+:gneJ51_1_0 0.10 gneE44_1
+-gneE46_1 92.80 :gneJ53_1_0
+-gneE42_1 92.80 :gneJ48_0_0
+:gneJ83_0_0 0.10 gneE84_1
+:gneJ84_1_0 0.10 gneE86_1
+:gneJ82_1_0 0.10 -gneE81_1
+:gneJ60_9_0 9.03 gneE69_1
+:gneJ60_10_0 14.40 gneE100_1
+:gneJ60_11_0 14.19 -gneE68_1
+-gneE63_1 92.80 :gneJ62_2_0 :gneJ62_3_0
+:gneJ62_4_0 4.75 :gneJ62_7_0
+:gneJ62_5_0 14.40 gneE57_1
+gneE17_1 100.00 :gneJ21_1_0
+:gneJ37_0_0 0.10 gneE32_1
+gneE44_1 92.80 :gneJ52_4_0 :gneJ52_5_0
+:gneJ53_1_0 0.10 -gneE45_1
+:gneJ48_0_0 0.10 -gneE40_1
+gneE84_1 92.80 :gneJ52_0_0 :gneJ52_1_0
+gneE86_1 92.80 :gneJ85_9_0 :gneJ85_10_0 :gneJ85_11_0
+-gneE81_1 100.00 :gneJ81_1_0
+gneE69_1 92.80 :gneJ70_0_0
+gneE100_1 92.80 :gneJ96_1_0
+-gneE68_1 92.80 :gneJ69_1_0
+:gneJ62_2_0 9.03 gneE57_1
+:gneJ62_3_0 14.19 -gneE56_1
+:gneJ62_7_0 4.28 gneE63_1
+gneE57_1 92.80 :gneJ63_1_0
+:gneJ21_1_0 0.10 gneE18_1
+gneE32_1 94.80 :gneJ38_0_0
+:gneJ52_4_0 14.40 gneE87_1
+:gneJ52_5_0 5.93 :gneJ52_7_0
+-gneE45_1 92.80 :gneJ43_2_0 :gneJ43_3_0
+-gneE40_1 92.80 :gneJ33_2_0 :gneJ33_3_0
+:gneJ52_0_0 9.03 -gneE44_1
+:gneJ52_1_0 14.19 gneE87_1
+:gneJ85_9_0 9.03 -gneE90_1
+:gneJ85_10_0 14.40 gneE154_1
+:gneJ85_11_0 14.19 gneE91_1
+:gneJ81_1_0 0.10 -gneE80_1
+:gneJ70_0_0 0.10 gneE70_1
+:gneJ96_1_0 0.10 gneE101_1
+:gneJ69_1_0 0.10 -gneE67_1
+-gneE56_1 92.80 :gneJ61_0_0
+gneE63_1 92.80 :gneJ67_0_0
+:gneJ63_1_0 0.10 gneE58_1
+gneE18_1 100.00 :gneJ22_1_0
+:gneJ38_0_0 10.97 gneE172_1
+gneE87_1 92.80 :gneJ86_1_0
+:gneJ52_7_0 8.26 -gneE84_1
+:gneJ43_2_0 9.03 gneE37_1
+:gneJ43_3_0 14.19 -gneE36_1
+:gneJ33_2_0 9.03 -gneE27_1
+:gneJ33_3_0 14.19 gneE28_1
+-gneE44_1 92.80 :gneJ51_0_0
+-gneE90_1 92.80 :gneJ88_0_0
+gneE154_1 92.80 :gneJ144_1_0
+gneE91_1 92.80 :gneJ89_1_0
+-gneE80_1 92.80 :gneJ77_4_0 :gneJ77_5_0
+gneE70_1 100.00 :gneJ71_0_0
+gneE101_1 92.80 :gneJ95_9_0 :gneJ95_10_0 :gneJ95_11_0
+-gneE67_1 92.80 :gneJ64_2_0 :gneJ64_3_0
+:gneJ61_0_0 0.10 -gneE55_1
+:gneJ67_0_0 0.10 gneE64_1
+gneE58_1 92.80 :gneJ64_4_0 :gneJ64_5_0
+:gneJ22_1_0 0.10 gneE19_1
+gneE172_1 94.80 :gneJ159_1_0
+:gneJ86_1_0 0.10 gneE88_1
+-gneE84_1 92.80 :gneJ83_1_0
+-gneE36_1 92.80 :gneJ42_0_0
+-gneE27_1 92.80 :gneJ32_1_0
+:gneJ51_0_0 0.10 -gneE43_1
+:gneJ88_0_0 0.10 -gneE89_1
+:gneJ144_1_0 0.10 gneE155_1
+:gneJ89_1_0 0.10 gneE92_1
+:gneJ77_4_0 4.75 :gneJ77_7_0
+:gneJ77_5_0 14.40 -gneE76_1
+:gneJ71_0_0 0.10 gneE71_1
+:gneJ95_9_0 9.03 -gneE99_1
+:gneJ95_10_0 14.40 gneE140_1
+:gneJ95_11_0 14.19 gneE102_1
+:gneJ64_2_0 9.03 -gneE105_1
+:gneJ64_3_0 14.19 -gneE58_1
+-gneE55_1 92.80 :gneJ17_2_0 :gneJ17_3_0
+gneE64_1 92.80 :gneJ58_0_0 :gneJ58_1_0
+:gneJ64_4_0 4.75 :gneJ64_7_0
+:gneJ64_5_0 14.40 -gneE105_1
+gneE19_1 94.80 :gneJ23_1_0
+:gneJ159_1_0 0.10 gneE173_1
+gneE88_1 92.80 :gneJ87_4_0 :gneJ87_5_0
+:gneJ83_1_0 0.10 -gneE83_1
+:gneJ42_0_0 0.10 -gneE35_1
+:gneJ32_1_0 0.10 -gneE26_1
+-gneE43_1 92.80 :gneJ50_2_0 :gneJ50_3_0
+-gneE89_1 92.80 :gneJ87_0_0 :gneJ87_1_0
+gneE155_1 92.80 :gneJ145_4_0 :gneJ145_5_0
+gneE92_1 100.00 :gneJ90_1_0
+:gneJ77_7_0 4.28 gneE77_1
+-gneE76_1 92.80 :gneJ76_1_0
+gneE71_1 92.80 :gneJ72_0_0 :gneJ72_1_0
+-gneE99_1 92.80 :gneJ94_0_0
+gneE140_1 92.80 :gneJ132_1_0
+gneE102_1 92.80 :gneJ97_1_0
+-gneE105_1 92.80 :gneJ99_1_0
+-gneE58_1 92.80 :gneJ63_0_0
+:gneJ17_2_0 9.03 gneE15_1
+:gneJ17_3_0 14.19 -gneE13_1
+:gneJ58_0_0 9.03 -gneE52_1
+:gneJ58_1_0 14.19 gneE53_1
+:gneJ64_7_0 4.28 gneE67_1
+:gneJ23_1_0 5.81 gneE107_1
+gneE173_1 100.00 :gneJ160_1_0
+:gneJ87_4_0 14.40 gneE146_1
+:gneJ87_5_0 5.93 :gneJ87_7_0
+-gneE83_1 92.80 :gneJ45_6_0 :gneJ45_7_0 :gneJ45_8_0
+-gneE35_1 92.80 :gneJ31_2_0 :gneJ31_3_0
+-gneE26_1 92.80 :gneJ31_4_0 :gneJ31_5_0
+:gneJ50_2_0 4.75 :gneJ50_6_0
+:gneJ50_3_0 14.40 -gneE42_1
+:gneJ87_0_0 9.03 -gneE88_1
+:gneJ87_1_0 14.19 gneE146_1
+:gneJ145_4_0 4.75 :gneJ145_7_0
+:gneJ145_5_0 14.40 gneE156_1
+:gneJ90_1_0 0.10 gneE93_1
+gneE77_1 92.80 :gneJ78_1_0
+:gneJ76_1_0 0.10 -gneE75_1
+:gneJ72_0_0 14.40 gneE74_1
+:gneJ72_1_0 5.93 :gneJ72_6_0
+:gneJ94_0_0 0.10 -gneE98_1
+:gneJ132_1_0 0.10 gneE141_1
+:gneJ97_1_0 0.10 gneE103_1
+:gneJ99_1_0 0.10 -gneE104_1
+:gneJ63_0_0 0.10 -gneE57_1
+-gneE13_1 92.80 :gneJ16_0_0
+-gneE52_1 92.80 :gneJ55_0_0
+gneE67_1 92.80 :gneJ69_0_0
+gneE107_1 94.80 :gneJ101_1_0
+:gneJ160_1_0 0.10 gneE174_1
+gneE146_1 92.80 :gneJ137_1_0
+:gneJ87_7_0 8.26 gneE89_1
+:gneJ45_6_0 4.75 :gneJ45_14_0
+:gneJ45_7_0 14.40 -gneE82_1
+:gneJ45_8_0 5.93 :gneJ45_15_0
+:gneJ31_2_0 9.03 -gneE25_1
+:gneJ31_3_0 14.19 gneE26_1
+:gneJ31_4_0 4.75 :gneJ31_7_0
+:gneJ31_5_0 14.40 -gneE25_1
+:gneJ50_6_0 4.28 -gneE46_1
+-gneE88_1 92.80 :gneJ86_0_0
+:gneJ145_7_0 4.28 gneE163_1
+gneE156_1 92.80 :gneJ146_1_0
+gneE93_1 92.80 :gneJ79_2_0 :gneJ79_3_0
+:gneJ78_1_0 0.10 gneE78_1
+-gneE75_1 100.00 :gneJ75_1_0
+gneE74_1 92.80 :gneJ75_0_0
+:gneJ72_6_0 8.26 gneE72_1
+-gneE98_1 100.00 :gneJ93_0_0
+gneE141_1 92.80 :gneJ131_4_0 :gneJ131_5_0
+gneE103_1 92.80 :gneJ98_2_0 :gneJ98_3_0
+-gneE104_1 92.80 :gneJ98_4_0 :gneJ98_5_0
+-gneE57_1 92.80 :gneJ62_0_0 :gneJ62_1_0
+:gneJ16_0_0 0.10 -gneE12_1
+:gneJ55_0_0 0.10 -gneE49_1
+:gneJ69_0_0 0.10 gneE68_1
+:gneJ101_1_0 0.10 gneE108_1
+gneE174_1 100.00 :gneJ161_1_0
+:gneJ137_1_0 0.10 gneE147_1
+gneE89_1 92.80 :gneJ88_1_0
+:gneJ45_14_0 4.28 gneE85_1
+:gneJ45_15_0 8.26 -gneE38_1
+-gneE25_1 92.80 :gneJ30_1_0
+:gneJ31_7_0 4.28 gneE35_1
+:gneJ86_0_0 0.10 -gneE87_1
+gneE163_1 92.80 :gneJ152_0_0
+:gneJ146_1_0 0.10 gneE157_1
+:gneJ79_2_0 14.40 gneE94_1
+:gneJ79_3_0 5.93 :gneJ79_7_0
+gneE78_1 92.80 :gneJ79_4_0 :gneJ79_5_0
+:gneJ75_1_0 0.10 -gneE74_1
+:gneJ75_0_0 0.10 gneE75_1
+gneE72_1 92.80 :gneJ73_1_0
+:gneJ93_0_0 0.10 -gneE97_1
+:gneJ131_4_0 14.40 gneE142_1
+:gneJ131_5_0 5.93 :gneJ131_7_0
+:gneJ98_2_0 9.03 gneE125_1
+:gneJ98_3_0 14.19 gneE104_1
+:gneJ98_4_0 4.75 :gneJ98_7_0
+:gneJ98_5_0 14.40 gneE125_1
+:gneJ62_0_0 14.40 -gneE56_1
+:gneJ62_1_0 5.93 :gneJ62_6_0
+-gneE12_1 92.80 :gneJ15_0_0 :gneJ15_1_0
+-gneE49_1 92.80 :gneJ15_2_0 :gneJ15_3_0
+gneE68_1 92.80 :gneJ60_0_0 :gneJ60_1_0 :gneJ60_2_0
+gneE108_1 100.00 :gneJ102_1_0
+:gneJ161_1_0 0.10 gneE175_1
+gneE147_1 92.80 :gneJ138_4_0 :gneJ138_5_0
+:gneJ88_1_0 0.10 gneE90_1
+-gneE38_1 92.80 :gneJ44_0_0
+:gneJ30_1_0 0.10 -gneE24_1
+-gneE87_1 92.80 :gneJ52_2_0 :gneJ52_3_0
+:gneJ152_0_0 0.10 gneE164_1
+gneE157_1 100.00 :gneJ147_1_0
+gneE94_1 92.80 :gneJ91_1_0
+:gneJ79_7_0 8.26 -gneE78_1
+:gneJ79_4_0 9.03 -gneE93_1
+:gneJ79_5_0 14.19 gneE94_1
+-gneE74_1 92.80 :gneJ72_4_0 :gneJ72_5_0
+gneE75_1 100.00 :gneJ76_0_0
+:gneJ73_1_0 0.10 gneE73_1
+-gneE97_1 92.80 :gneJ74_0_0 :gneJ74_1_0
+gneE142_1 92.80 :gneJ133_1_0
+:gneJ131_7_0 8.26 -gneE139_1
+gneE125_1 92.80 :gneJ119_1_0
+gneE104_1 92.80 :gneJ99_0_0
+:gneJ98_7_0 4.28 -gneE103_1
+:gneJ62_6_0 8.26 gneE63_1
+:gneJ15_0_0 14.40 -gneE11_1
+:gneJ15_1_0 5.93 :gneJ15_6_0
+:gneJ15_2_0 9.03 gneE12_1
+:gneJ15_3_0 14.19 -gneE11_1
+:gneJ60_0_0 4.75 :gneJ60_12_0
+:gneJ60_1_0 14.40 gneE69_1
+:gneJ60_2_0 5.93 :gneJ60_13_0
+:gneJ102_1_0 0.10 gneE109_1
+gneE175_1 100.00 :gneJ162_1_0
+:gneJ138_4_0 14.40 gneE148_1
+:gneJ138_5_0 5.93 :gneJ138_7_0
+gneE90_1 92.80 :gneJ85_6_0 :gneJ85_7_0 :gneJ85_8_0
+:gneJ44_0_0 0.10 -gneE37_1
+-gneE24_1 100.00 :gneJ29_1_0
+:gneJ52_2_0 4.75 :gneJ52_6_0
+:gneJ52_3_0 14.40 -gneE44_1
+gneE164_1 92.80 :gneJ138_0_0 :gneJ138_1_0
+:gneJ147_1_0 0.10 gneE158_1
+:gneJ91_1_0 0.10 gneE95_1
+-gneE78_1 92.80 :gneJ78_0_0
+-gneE93_1 92.80 :gneJ90_0_0
+:gneJ72_4_0 4.75 :gneJ72_7_0
+:gneJ72_5_0 14.40 -gneE71_1
+:gneJ76_0_0 0.10 gneE76_1
+gneE73_1 92.80 :gneJ74_4_0 :gneJ74_5_0
+:gneJ74_0_0 4.75 :gneJ74_6_0
+:gneJ74_1_0 14.40 -gneE96_1
+:gneJ133_1_0 0.10 gneE143_1
+-gneE139_1 92.80 :gneJ130_1_0
+:gneJ119_1_0 0.10 gneE126_1
+:gneJ99_0_0 0.10 gneE105_1
+-gneE103_1 92.80 :gneJ97_0_0
+-gneE11_1 92.80 :gneJ14_0_0
+:gneJ15_6_0 8.26 gneE49_1
+:gneJ60_12_0 4.28 -gneE54_1
+:gneJ60_13_0 8.26 gneE100_1
+gneE109_1 100.00 :gneJ103_1_0
+:gneJ162_1_0 0.10 gneE176_1
+gneE148_1 92.80 :gneJ139_1_0
+:gneJ138_7_0 8.26 -gneE164_1
+:gneJ85_6_0 4.75 :gneJ85_14_0
+:gneJ85_7_0 14.40 gneE91_1
+:gneJ85_8_0 5.93 :gneJ85_15_0
+-gneE37_1 92.80 :gneJ43_0_0 :gneJ43_1_0
+:gneJ29_1_0 0.10 -gneE23_1
+:gneJ52_6_0 4.28 -gneE84_1
+:gneJ138_0_0 9.03 -gneE147_1
+:gneJ138_1_0 14.19 gneE148_1
+gneE158_1 92.80 :gneJ148_4_0 :gneJ148_5_0
+gneE95_1 100.00 :gneJ92_1_0
+:gneJ78_0_0 0.10 -gneE77_1
+:gneJ90_0_0 0.10 -gneE92_1
+:gneJ72_7_0 4.28 gneE72_1
+-gneE71_1 92.80 :gneJ71_1_0
+gneE76_1 92.80 :gneJ77_0_0 :gneJ77_1_0
+:gneJ74_4_0 9.03 -gneE96_1
+:gneJ74_5_0 14.19 gneE97_1
+:gneJ74_6_0 4.28 -gneE73_1
+-gneE96_1 92.80 :gneJ92_0_0
+gneE143_1 100.00 :gneJ134_1_0
+:gneJ130_1_0 0.10 -gneE138_1
+gneE126_1 92.80 :gneJ120_4_0 :gneJ120_5_0
+gneE105_1 92.80 :gneJ64_0_0 :gneJ64_1_0
+:gneJ97_0_0 0.10 -gneE102_1
+:gneJ14_0_0 0.10 -gneE10_1
+-gneE54_1 92.80 :gneJ59_0_0
+:gneJ103_1_0 0.10 gneE110_1
+gneE176_1 100.00 :gneJ163_1_0
+:gneJ139_1_0 0.10 gneE149_1
+-gneE164_1 92.80 :gneJ152_1_0
+:gneJ85_14_0 4.28 gneE154_1
+:gneJ85_15_0 8.26 -gneE86_1
+:gneJ43_0_0 14.40 -gneE36_1
+:gneJ43_1_0 5.93 :gneJ43_6_0
+-gneE23_1 100.00 :gneJ28_1_0
+-gneE147_1 92.80 :gneJ137_0_0
+:gneJ148_4_0 4.75 :gneJ148_7_0
+:gneJ148_5_0 14.40 gneE159_1
+:gneJ92_1_0 0.10 gneE96_1
+-gneE77_1 92.80 :gneJ77_2_0 :gneJ77_3_0
+-gneE92_1 100.00 :gneJ89_0_0
+:gneJ71_1_0 0.10 -gneE70_1
+:gneJ77_0_0 14.40 gneE80_1
+:gneJ77_1_0 5.93 :gneJ77_6_0
+gneE97_1 92.80 :gneJ93_1_0
+-gneE73_1 92.80 :gneJ73_0_0
+:gneJ92_0_0 0.10 -gneE95_1
+:gneJ134_1_0 0.10 gneE144_1
+-gneE138_1 92.80 :gneJ120_2_0 :gneJ120_3_0
+:gneJ120_4_0 4.75 :gneJ120_7_0
+:gneJ120_5_0 14.40 gneE127_1
+:gneJ64_0_0 14.40 -gneE58_1
+:gneJ64_1_0 5.93 :gneJ64_6_0
+-gneE102_1 92.80 :gneJ95_0_0 :gneJ95_1_0 :gneJ95_2_0
+-gneE10_1 100.00 :gneJ13_0_0
+:gneJ59_0_0 0.10 -gneE53_1
+gneE110_1 100.00 :gneJ104_1_0
+:gneJ163_1_0 0.10 gneE177_1
+gneE149_1 100.00 :gneJ140_1_0
+:gneJ152_1_0 0.10 -gneE163_1
+-gneE86_1 92.80 :gneJ84_0_0
+:gneJ43_6_0 8.26 gneE45_1
+:gneJ28_1_0 0.10 -gneE22_1
+:gneJ137_0_0 0.10 -gneE146_1
+:gneJ148_7_0 4.28 gneE165_1
+gneE159_1 92.80 :gneJ149_1_0
+gneE96_1 92.80 :gneJ74_2_0 :gneJ74_3_0
+:gneJ77_2_0 9.03 -gneE76_1
+:gneJ77_3_0 14.19 gneE80_1
+:gneJ89_0_0 0.10 -gneE91_1
+-gneE70_1 100.00 :gneJ70_1_0
+gneE80_1 92.80 :gneJ81_0_0
+:gneJ77_6_0 8.26 gneE77_1
+:gneJ93_1_0 0.10 gneE98_1
+:gneJ73_0_0 0.10 -gneE72_1
+-gneE95_1 100.00 :gneJ91_0_0
+gneE144_1 92.80 :gneJ126_4_0 :gneJ126_5_0
+:gneJ120_2_0 9.03 gneE127_1
+:gneJ120_3_0 14.19 -gneE126_1
+:gneJ120_7_0 4.28 gneE138_1
+gneE127_1 92.80 :gneJ121_1_0
+:gneJ64_6_0 8.26 gneE67_1
+:gneJ95_0_0 4.75 :gneJ95_12_0
+:gneJ95_1_0 14.40 -gneE99_1
+:gneJ95_2_0 5.93 :gneJ95_13_0
+:gneJ13_0_0 0.10 -gneE9_1
+-gneE53_1 92.80 :gneJ58_2_0 :gneJ58_3_0
+:gneJ104_1_0 0.10 gneE111_1
+gneE177_1 100.00 :gneJ164_1_0
+:gneJ140_1_0 0.10 gneE150_1
+-gneE163_1 92.80 :gneJ145_2_0 :gneJ145_3_0
+:gneJ84_0_0 0.10 -gneE85_1
+-gneE22_1 92.80 :gneJ11_2_0 :gneJ11_3_0
+-gneE146_1 92.80 :gneJ87_2_0 :gneJ87_3_0
+gneE165_1 92.80 :gneJ153_0_0
+:gneJ149_1_0 0.10 gneE160_1
+:gneJ74_2_0 14.40 gneE97_1
+:gneJ74_3_0 5.93 :gneJ74_7_0
+-gneE91_1 92.80 :gneJ85_0_0 :gneJ85_1_0 :gneJ85_2_0
+:gneJ70_1_0 0.10 -gneE69_1
+:gneJ81_0_0 0.10 gneE81_1
+gneE98_1 100.00 :gneJ94_1_0
+-gneE72_1 92.80 :gneJ72_2_0 :gneJ72_3_0
+:gneJ91_0_0 0.10 -gneE94_1
+:gneJ126_4_0 14.40 gneE134_1
+:gneJ126_5_0 5.93 :gneJ126_7_0
+-gneE126_1 92.80 :gneJ119_0_0
+gneE138_1 92.80 :gneJ130_0_0
+:gneJ121_1_0 0.10 gneE128_1
+:gneJ95_12_0 4.28 -gneE101_1
+:gneJ95_13_0 8.26 gneE140_1
+-gneE9_1 100.00 :gneJ12_0_0
+:gneJ58_2_0 4.75 :gneJ58_6_0
+:gneJ58_3_0 14.40 -gneE52_1
+gneE111_1 100.00 :gneJ105_1_0
+:gneJ164_1_0 0.10 gneE178_1
+gneE150_1 92.80 :gneJ141_4_0 :gneJ141_5_0
+:gneJ145_2_0 9.03 gneE156_1
+:gneJ145_3_0 14.19 -gneE155_1
+-gneE85_1 92.80 :gneJ45_3_0 :gneJ45_4_0 :gneJ45_5_0
+:gneJ11_2_0 14.40 gneE47_1
+:gneJ11_3_0 5.93 :gneJ11_7_0
+:gneJ87_2_0 4.75 :gneJ87_6_0
+:gneJ87_3_0 14.40 -gneE88_1
+:gneJ153_0_0 0.10 gneE166_1
+gneE160_1 92.80 :gneJ150_4_0 :gneJ150_5_0
+:gneJ74_7_0 8.26 -gneE73_1
+:gneJ85_0_0 4.75 :gneJ85_12_0
+:gneJ85_1_0 14.40 -gneE90_1
+:gneJ85_2_0 5.93 :gneJ85_13_0
+-gneE69_1 92.80 :gneJ60_6_0 :gneJ60_7_0 :gneJ60_8_0
+gneE81_1 100.00 :gneJ82_0_0
+:gneJ94_1_0 0.10 gneE99_1
+:gneJ72_2_0 9.03 -gneE71_1
+:gneJ72_3_0 14.19 gneE74_1
+-gneE94_1 92.80 :gneJ79_0_0 :gneJ79_1_0
+gneE134_1 92.80 :gneJ127_1_0
+:gneJ126_7_0 8.26 -gneE133_1
+:gneJ119_0_0 0.10 -gneE125_1
+:gneJ130_0_0 0.10 gneE139_1
+gneE128_1 100.00 :gneJ122_1_0
+-gneE101_1 92.80 :gneJ96_0_0
+:gneJ12_0_0 0.10 -gneE8_1
+:gneJ58_6_0 4.28 -gneE64_1
+:gneJ105_1_0 0.10 gneE112_1
+gneE178_1 100.00 :gneJ165_1_0
+:gneJ141_4_0 14.40 gneE151_1
+:gneJ141_5_0 5.93 :gneJ141_7_0
+-gneE155_1 92.80 :gneJ144_0_0
+:gneJ45_3_0 9.03 -gneE82_1
+:gneJ45_4_0 14.40 -gneE38_1
+:gneJ45_5_0 14.19 gneE83_1
+:gneJ11_7_0 8.26 -gneE7_1
+:gneJ87_6_0 4.28 gneE89_1
+gneE166_1 92.80 :gneJ141_0_0 :gneJ141_1_0
+:gneJ150_4_0 4.75 :gneJ150_7_0
+:gneJ150_5_0 14.40 gneE218_1
+:gneJ85_12_0 4.28 -gneE86_1
+:gneJ85_13_0 8.26 gneE154_1
+:gneJ60_6_0 4.75 :gneJ60_14_0
+:gneJ60_7_0 14.40 -gneE68_1
+:gneJ60_8_0 5.93 :gneJ60_15_0
+:gneJ82_0_0 0.10 gneE82_1
+gneE99_1 92.80 :gneJ95_6_0 :gneJ95_7_0 :gneJ95_8_0
+:gneJ79_0_0 4.75 :gneJ79_6_0
+:gneJ79_1_0 14.40 -gneE93_1
+:gneJ127_1_0 0.10 gneE135_1
+-gneE133_1 92.80 :gneJ125_1_0
+-gneE125_1 92.80 :gneJ98_0_0 :gneJ98_1_0
+gneE139_1 92.80 :gneJ131_0_0 :gneJ131_1_0
+:gneJ122_1_0 0.10 gneE129_1
+:gneJ96_0_0 0.10 -gneE100_1
+-gneE8_1 92.80 :gneJ10_0_0 :gneJ10_1_0
+gneE112_1 100.00 :gneJ106_1_0
+:gneJ165_1_0 0.10 gneE179_1
+gneE151_1 92.80 :gneJ142_1_0
+:gneJ141_7_0 8.26 -gneE166_1
+:gneJ144_0_0 0.10 -gneE154_1
+-gneE7_1 92.80 :gneJ9_0_0
+:gneJ141_0_0 9.03 -gneE150_1
+:gneJ141_1_0 14.19 gneE151_1
+:gneJ150_7_0 4.28 gneE161_1
+gneE218_1 92.80 :gneJ201_1_0
+:gneJ60_14_0 4.28 gneE100_1
+:gneJ60_15_0 8.26 -gneE54_1
+gneE82_1 92.80 :gneJ45_0_0 :gneJ45_1_0 :gneJ45_2_0
+:gneJ95_6_0 4.75 :gneJ95_14_0
+:gneJ95_7_0 14.40 gneE102_1
+:gneJ95_8_0 5.93 :gneJ95_15_0
+:gneJ79_6_0 4.28 -gneE78_1
+gneE135_1 92.80 :gneJ128_4_0 :gneJ128_5_0
+:gneJ125_1_0 0.10 -gneE132_1
+:gneJ98_0_0 14.40 gneE104_1
+:gneJ98_1_0 5.93 :gneJ98_6_0
+:gneJ131_0_0 9.03 -gneE141_1
+:gneJ131_1_0 14.19 gneE142_1
+gneE129_1 92.80 :gneJ123_4_0 :gneJ123_5_0
+-gneE100_1 92.80 :gneJ60_3_0 :gneJ60_4_0 :gneJ60_5_0
+:gneJ10_0_0 4.75 :gneJ10_6_0
+:gneJ10_1_0 14.40 -gneE47_1
+:gneJ106_1_0 0.10 gneE113_1
+gneE179_1 100.00 :gneJ166_1_0
+:gneJ142_1_0 0.10 gneE152_1
+-gneE166_1 92.80 :gneJ153_1_0
+-gneE154_1 92.80 :gneJ85_3_0 :gneJ85_4_0 :gneJ85_5_0
+:gneJ9_0_0 0.10 -gneE5_1
+-gneE150_1 92.80 :gneJ140_0_0
+gneE161_1 92.80 :gneJ151_0_0
+:gneJ201_1_0 0.10 gneE219_1
+:gneJ45_0_0 4.75 :gneJ45_12_0
+:gneJ45_1_0 14.40 gneE83_1
+:gneJ45_2_0 5.93 :gneJ45_13_0
+:gneJ95_14_0 4.28 gneE140_1
+:gneJ95_15_0 8.26 -gneE101_1
+:gneJ128_4_0 14.40 gneE186_1
+:gneJ128_5_0 5.93 :gneJ128_7_0
+-gneE132_1 92.80 :gneJ123_2_0 :gneJ123_3_0
+:gneJ98_6_0 8.26 -gneE103_1
+-gneE141_1 92.80 :gneJ132_0_0
+:gneJ123_4_0 4.75 :gneJ123_7_0
+:gneJ123_5_0 14.40 gneE130_1
+:gneJ60_3_0 9.03 -gneE68_1
+:gneJ60_4_0 14.40 -gneE54_1
+:gneJ60_5_0 14.19 gneE69_1
+:gneJ10_6_0 4.28 -gneE6_1
+-gneE47_1 85.60 :gneJ11_0_0 :gneJ11_1_0
+gneE113_1 100.00 :gneJ107_1_0
+:gneJ166_1_0 0.10 gneE180_1
+gneE152_1 92.80 :gneJ143_9_0 :gneJ143_10_0 :gneJ143_11_0
+:gneJ153_1_0 0.10 -gneE165_1
+:gneJ85_3_0 9.03 gneE91_1
+:gneJ85_4_0 14.40 -gneE86_1
+:gneJ85_5_0 14.19 -gneE90_1
+-gneE5_1 100.00 :gneJ8_0_0
+:gneJ140_0_0 0.10 -gneE149_1
+:gneJ151_0_0 0.10 gneE162_1
+gneE219_1 92.80 :gneJ202_4_0 :gneJ202_5_0
+:gneJ45_12_0 4.28 -gneE38_1
+:gneJ45_13_0 8.26 gneE85_1
+gneE186_1 92.80 :gneJ172_1_0
+:gneJ128_7_0 8.26 gneE136_1
+:gneJ123_2_0 9.03 gneE130_1
+:gneJ123_3_0 14.19 -gneE129_1
+:gneJ132_0_0 0.10 -gneE140_1
+:gneJ123_7_0 4.28 gneE132_1
+gneE130_1 92.80 :gneJ124_1_0
+:gneJ11_0_0 4.75 :gneJ11_6_0
+:gneJ11_1_0 14.40 gneE22_1
+:gneJ107_1_0 0.10 gneE114_1
+gneE180_1 100.00 :gneJ167_1_0
+:gneJ143_9_0 9.03 gneE167_1
+:gneJ143_10_0 14.40 gneE224_1
+:gneJ143_11_0 14.19 -gneE162_1
+-gneE165_1 92.80 :gneJ148_2_0 :gneJ148_3_0
+:gneJ8_0_0 0.10 -gneE4_1
+-gneE149_1 100.00 :gneJ139_0_0
+gneE162_1 92.80 :gneJ143_0_0 :gneJ143_1_0 :gneJ143_2_0
+:gneJ202_4_0 4.75 :gneJ202_7_0
+:gneJ202_5_0 14.40 gneE220_1
+:gneJ172_1_0 0.10 gneE187_1
+gneE136_1 92.80 :gneJ129_1_0
+-gneE129_1 92.80 :gneJ122_0_0
+-gneE140_1 92.80 :gneJ95_3_0 :gneJ95_4_0 :gneJ95_5_0
+gneE132_1 92.80 :gneJ125_0_0
+:gneJ124_1_0 0.10 gneE131_1
+:gneJ11_6_0 4.28 -gneE7_1
+gneE114_1 100.00 :gneJ108_1_0
+:gneJ167_1_0 0.10 gneE181_1
+gneE167_1 92.80 :gneJ154_0_0
+gneE224_1 92.80 :gneJ206_1_0
+-gneE162_1 92.80 :gneJ151_1_0
+:gneJ148_2_0 9.03 gneE159_1
+:gneJ148_3_0 14.19 -gneE158_1
+:gneJ139_0_0 0.10 -gneE148_1
+:gneJ143_0_0 4.75 :gneJ143_12_0
+:gneJ143_1_0 14.40 gneE167_1
+:gneJ143_2_0 5.93 :gneJ143_13_0
+:gneJ202_7_0 4.28 gneE232_1
+gneE220_1 92.80 :gneJ203_1_0
+gneE187_1 92.80 :gneJ173_4_0 :gneJ173_5_0
+:gneJ129_1_0 0.10 gneE137_1
+:gneJ122_0_0 0.10 -gneE128_1
+:gneJ95_3_0 9.03 gneE102_1
+:gneJ95_4_0 14.40 -gneE101_1
+:gneJ95_5_0 14.19 -gneE99_1
+:gneJ125_0_0 0.10 gneE133_1
+gneE131_1 92.80 :gneJ118_9_0 :gneJ118_10_0 :gneJ118_11_0
+:gneJ108_1_0 0.10 gneE115_1
+gneE181_1 100.00 :gneJ168_1_0
+:gneJ154_0_0 0.10 gneE168_1
+:gneJ206_1_0 0.10 gneE225_1
+:gneJ151_1_0 0.10 -gneE161_1
+-gneE158_1 92.80 :gneJ147_0_0
+-gneE148_1 92.80 :gneJ138_2_0 :gneJ138_3_0
+:gneJ143_12_0 4.28 -gneE152_1
+:gneJ143_13_0 8.26 gneE224_1
+gneE232_1 92.80 :gneJ213_0_0
+:gneJ203_1_0 0.10 gneE221_1
+:gneJ173_4_0 14.40 gneE188_1
+:gneJ173_5_0 5.93 :gneJ173_7_0
+gneE137_1 92.80 :gneJ118_6_0 :gneJ118_7_0 :gneJ118_8_0
+-gneE128_1 100.00 :gneJ121_0_0
+gneE133_1 92.80 :gneJ126_0_0 :gneJ126_1_0
+:gneJ118_9_0 9.03 -gneE137_1
+:gneJ118_10_0 14.40 gneE192_1
+:gneJ118_11_0 14.19 -gneE124_1
+gneE115_1 100.00 :gneJ109_1_0
+:gneJ168_1_0 0.10 gneE182_1
+gneE168_1 100.00 :gneJ155_0_0
+gneE225_1 92.80 :gneJ207_16_0 :gneJ207_17_0 :gneJ207_18_0 :gneJ207_19_0
+-gneE161_1 92.80 :gneJ150_2_0 :gneJ150_3_0
+:gneJ147_0_0 0.10 -gneE157_1
+:gneJ138_2_0 4.75 :gneJ138_6_0
+:gneJ138_3_0 14.40 -gneE147_1
+-gneE152_1 92.80 :gneJ142_0_0
+:gneJ213_0_0 0.10 -gneE233_1
+gneE221_1 92.80 :gneJ204_4_0 :gneJ204_5_0
+gneE188_1 92.80 :gneJ174_1_0
+:gneJ173_7_0 8.26 -gneE194_1
+:gneJ118_6_0 4.75 :gneJ118_14_0
+:gneJ118_7_0 14.40 -gneE124_1
+:gneJ118_8_0 5.93 :gneJ118_15_0
+:gneJ121_0_0 0.10 -gneE127_1
+:gneJ126_0_0 9.03 -gneE144_1
+:gneJ126_1_0 14.19 gneE134_1
+-gneE137_1 92.80 :gneJ129_0_0
+gneE192_1 92.80 :gneJ178_1_0
+-gneE124_1 92.80 :gneJ117_1_0
+:gneJ109_1_0 0.10 gneE116_1
+gneE182_1 100.00 :gneJ169_1_0
+:gneJ155_0_0 0.10 gneE169_1
+:gneJ207_16_0 9.03 gneE237_1
+:gneJ207_17_0 14.40 gneE226_1
+:gneJ207_18_0 14.40 gneE234_1
+:gneJ207_19_0 14.19 gneE233_1
+:gneJ150_2_0 9.03 gneE218_1
+:gneJ150_3_0 14.19 -gneE160_1
+-gneE157_1 100.00 :gneJ146_0_0
+:gneJ138_6_0 4.28 -gneE164_1
+:gneJ142_0_0 0.10 -gneE151_1
+-gneE233_1 92.80 :gneJ207_0_0 :gneJ207_1_0 :gneJ207_2_0 :gneJ207_3_0
+:gneJ204_4_0 4.75 :gneJ204_7_0
+:gneJ204_5_0 14.40 gneE222_1
+:gneJ174_1_0 0.10 gneE189_1
+-gneE194_1 92.80 :gneJ180_1_0
+:gneJ118_14_0 4.28 gneE192_1
+:gneJ118_15_0 8.26 -gneE131_1
+-gneE127_1 92.80 :gneJ120_0_0 :gneJ120_1_0
+-gneE144_1 92.80 :gneJ134_0_0
+:gneJ129_0_0 0.10 -gneE136_1
+:gneJ178_1_0 0.10 gneE193_1
+:gneJ117_1_0 0.10 -gneE123_1
+gneE116_1 100.00 :gneJ110_1_0
+:gneJ169_1_0 0.10 gneE183_1
+gneE169_1 100.00 :gneJ156_0_0
+gneE237_1 92.80 :gneJ215_0_0
+gneE226_1 92.80 :gneJ208_1_0
+gneE234_1 185.60 :gneJ209_9_0 :gneJ209_10_0 :gneJ209_11_0
+gneE233_1 92.80 :gneJ213_1_0
+-gneE160_1 92.80 :gneJ149_0_0
+:gneJ146_0_0 0.10 -gneE156_1
+-gneE151_1 92.80 :gneJ141_2_0 :gneJ141_3_0
+:gneJ207_0_0 4.75 :gneJ207_20_0
+:gneJ207_1_0 14.40 gneE237_1
+:gneJ207_2_0 4.60 :gneJ207_21_0
+:gneJ207_3_0 5.93 :gneJ207_22_0
+:gneJ204_7_0 4.28 -gneE236_1
+gneE222_1 92.80 :gneJ205_1_0
+gneE189_1 92.80 :gneJ175_4_0 :gneJ175_5_0
+:gneJ180_1_0 0.10 gneE195_1
+-gneE131_1 92.80 :gneJ124_0_0
+:gneJ120_0_0 14.40 -gneE126_1
+:gneJ120_1_0 5.93 :gneJ120_6_0
+:gneJ134_0_0 0.10 -gneE143_1
+-gneE136_1 92.80 :gneJ128_0_0 :gneJ128_1_0
+gneE193_1 92.80 :gneJ179_9_0 :gneJ179_10_0 :gneJ179_11_0
+-gneE123_1 100.00 :gneJ116_1_0
+:gneJ110_1_0 0.10 gneE117_1
+gneE183_1 100.00 :gneJ170_1_0
+:gneJ156_0_0 0.10 gneE170_1
+:gneJ215_0_0 0.10 gneE238_1
+:gneJ208_1_0 0.10 gneE227_1
+:gneJ209_9_0 14.40 gneE228_1
+:gneJ209_10_0 14.19 -gneE235_1
+:gneJ209_11_0 3.20 -gneE227_1
+:gneJ213_1_0 0.10 -gneE232_1
+:gneJ149_0_0 0.10 -gneE159_1
+-gneE156_1 92.80 :gneJ145_0_0 :gneJ145_1_0
+:gneJ141_2_0 4.75 :gneJ141_6_0
+:gneJ141_3_0 14.40 -gneE150_1
+:gneJ207_20_0 4.28 -gneE225_1
+:gneJ207_21_0 8.84 gneE226_1
+:gneJ207_22_0 8.26 gneE234_1
+-gneE236_1 92.80 :gneJ214_0_0
+:gneJ205_1_0 0.10 gneE223_1
+:gneJ175_4_0 14.40 gneE190_1
+:gneJ175_5_0 5.93 :gneJ175_7_0
+gneE195_1 92.80 :gneJ179_6_0 :gneJ179_7_0 :gneJ179_8_0
+:gneJ124_0_0 0.10 -gneE130_1
+:gneJ120_6_0 8.26 gneE138_1
+-gneE143_1 100.00 :gneJ133_0_0
+:gneJ128_0_0 9.03 -gneE135_1
+:gneJ128_1_0 14.19 gneE186_1
+:gneJ179_9_0 9.03 -gneE195_1
+:gneJ179_10_0 14.40 gneE201_1
+:gneJ179_11_0 14.19 gneE196_1
+:gneJ116_1_0 0.10 -gneE122_1
+gneE117_1 100.00 :gneJ111_1_0
+:gneJ170_1_0 0.10 gneE184_1
+gneE170_1 100.00 :gneJ157_0_0
+gneE238_1 100.00 :gneJ216_0_0
+gneE227_1 92.80 :gneJ209_6_0 :gneJ209_7_0 :gneJ209_8_0
+gneE228_1 92.80 :gneJ210_1_0
+-gneE235_1 92.80 :gneJ214_1_0
+-gneE227_1 92.80 :gneJ208_0_0
+-gneE232_1 92.80 :gneJ202_2_0 :gneJ202_3_0
+-gneE159_1 92.80 :gneJ148_0_0 :gneJ148_1_0
+:gneJ145_0_0 14.40 -gneE155_1
+:gneJ145_1_0 5.93 :gneJ145_6_0
+:gneJ141_6_0 4.28 -gneE166_1
+-gneE225_1 92.80 :gneJ206_0_0
+:gneJ214_0_0 0.10 gneE235_1
+gneE223_1 92.80 :gneJ200_9_0 :gneJ200_10_0 :gneJ200_11_0
+gneE190_1 92.80 :gneJ176_1_0
+:gneJ175_7_0 8.26 -gneE204_1
+:gneJ179_6_0 4.75 :gneJ179_14_0
+:gneJ179_7_0 14.40 gneE196_1
+:gneJ179_8_0 5.93 :gneJ179_15_0
+-gneE130_1 92.80 :gneJ123_0_0 :gneJ123_1_0
+:gneJ133_0_0 0.10 -gneE142_1
+-gneE135_1 92.80 :gneJ127_0_0
+-gneE195_1 92.80 :gneJ180_0_0
+gneE201_1 92.80 :gneJ186_1_0
+gneE196_1 92.80 :gneJ181_1_0
+-gneE122_1 100.00 :gneJ115_1_0
+:gneJ111_1_0 0.10 gneE118_1
+gneE184_1 92.80 :gneJ158_4_0 :gneJ158_5_0
+:gneJ157_0_0 0.10 gneE171_1
+:gneJ216_0_0 0.10 gneE239_1
+:gneJ209_6_0 14.40 gneE228_1
+:gneJ209_7_0 5.93 :gneJ209_13_0
+:gneJ209_8_0 1.60 :gneJ209_14_0
+:gneJ210_1_0 0.10 gneE229_1
+:gneJ214_1_0 0.10 gneE236_1
+:gneJ208_0_0 0.10 -gneE226_1
+:gneJ202_2_0 9.03 gneE220_1
+:gneJ202_3_0 14.19 -gneE219_1
+:gneJ148_0_0 14.40 -gneE158_1
+:gneJ148_1_0 5.93 :gneJ148_6_0
+:gneJ145_6_0 8.26 gneE163_1
+:gneJ206_0_0 0.10 -gneE224_1
+gneE235_1 92.80 :gneJ209_0_0 :gneJ209_1_0 :gneJ209_2_0
+:gneJ200_9_0 9.03 -gneE231_1
+:gneJ200_10_0 14.40 gneE254_1
+:gneJ200_11_0 14.19 -gneE217_1
+:gneJ176_1_0 0.10 gneE191_1
+-gneE204_1 92.80 :gneJ188_1_0
+:gneJ179_14_0 4.28 gneE201_1
+:gneJ179_15_0 8.26 -gneE193_1
+:gneJ123_0_0 14.40 -gneE129_1
+:gneJ123_1_0 5.93 :gneJ123_6_0
+-gneE142_1 92.80 :gneJ131_2_0 :gneJ131_3_0
+:gneJ127_0_0 0.10 -gneE134_1
+:gneJ180_0_0 0.10 gneE194_1
+:gneJ186_1_0 0.10 gneE202_1
+:gneJ181_1_0 0.10 gneE197_1
+:gneJ115_1_0 0.10 -gneE121_1
+gneE118_1 100.00 :gneJ112_1_0
+:gneJ158_4_0 14.40 gneE461_1
+:gneJ158_5_0 5.93 :gneJ158_7_0
+gneE171_1 92.80 :gneJ158_0_0 :gneJ158_1_0
+gneE239_1 100.00 :gneJ217_0_0
+:gneJ209_13_0 8.26 -gneE235_1
+:gneJ209_14_0 1.60 -gneE234_1
+gneE229_1 92.80 :gneJ211_4_0 :gneJ211_5_0
+gneE236_1 92.80 :gneJ204_2_0 :gneJ204_3_0
+-gneE226_1 92.80 :gneJ207_4_0 :gneJ207_5_0 :gneJ207_6_0 :gneJ207_7_0
+-gneE219_1 92.80 :gneJ201_0_0
+:gneJ148_6_0 8.26 gneE165_1
+-gneE224_1 92.80 :gneJ143_3_0 :gneJ143_4_0 :gneJ143_5_0
+:gneJ209_0_0 9.03 -gneE227_1
+:gneJ209_1_0 9.03 -gneE234_1
+:gneJ209_2_0 14.19 gneE228_1
+-gneE231_1 92.80 :gneJ212_0_0
+gneE254_1 92.80 :gneJ232_1_0
+-gneE217_1 92.80 :gneJ199_1_0
+gneE191_1 92.80 :gneJ177_9_0 :gneJ177_10_0 :gneJ177_11_0
+:gneJ188_1_0 0.10 -gneE203_1
+-gneE193_1 92.80 :gneJ178_0_0
+:gneJ123_6_0 8.26 gneE132_1
+:gneJ131_2_0 4.75 :gneJ131_6_0
+:gneJ131_3_0 14.40 -gneE141_1
+-gneE134_1 92.80 :gneJ126_2_0 :gneJ126_3_0
+gneE194_1 92.80 :gneJ173_0_0 :gneJ173_1_0
+gneE202_1 92.80 :gneJ187_4_0 :gneJ187_5_0
+gneE197_1 100.00 :gneJ182_1_0
+-gneE121_1 100.00 :gneJ114_1_0
+:gneJ112_1_0 0.10 gneE119_1
+gneE461_1 92.80 :gneJ409_1_0
+:gneJ158_7_0 8.26 -gneE171_1
+:gneJ158_0_0 9.03 -gneE184_1
+:gneJ158_1_0 14.19 gneE461_1
+:gneJ217_0_0 0.10 gneE240_1
+-gneE234_1 185.60 :gneJ207_8_0 :gneJ207_9_0 :gneJ207_10_0 :gneJ207_11_0
+:gneJ211_4_0 14.40 gneE262_1
+:gneJ211_5_0 5.93 :gneJ211_7_0
+:gneJ204_2_0 9.03 gneE222_1
+:gneJ204_3_0 14.19 -gneE221_1
+:gneJ207_4_0 9.03 gneE233_1
+:gneJ207_5_0 14.40 -gneE225_1
+:gneJ207_6_0 14.19 gneE237_1
+:gneJ207_7_0 3.20 gneE234_1
+:gneJ201_0_0 0.10 -gneE218_1
+:gneJ143_3_0 9.03 -gneE162_1
+:gneJ143_4_0 14.40 -gneE152_1
+:gneJ143_5_0 14.19 gneE167_1
+:gneJ212_0_0 0.10 -gneE230_1
+:gneJ232_1_0 0.10 gneE255_1
+:gneJ199_1_0 0.10 -gneE216_1
+:gneJ177_9_0 9.03 gneE209_1
+:gneJ177_10_0 14.40 gneE256_1
+:gneJ177_11_0 14.19 -gneE208_1
+-gneE203_1 92.80 :gneJ187_2_0 :gneJ187_3_0
+:gneJ178_0_0 0.10 -gneE192_1
+:gneJ131_6_0 4.28 -gneE139_1
+:gneJ126_2_0 4.75 :gneJ126_6_0
+:gneJ126_3_0 14.40 -gneE144_1
+:gneJ173_0_0 9.03 -gneE187_1
+:gneJ173_1_0 14.19 gneE188_1
+:gneJ187_4_0 4.75 :gneJ187_7_0
+:gneJ187_5_0 14.40 gneE205_1
+:gneJ182_1_0 0.10 gneE198_1
+:gneJ114_1_0 0.10 -gneE120_1
+gneE119_1 92.80 :gneJ113_4_0 :gneJ113_5_0
+:gneJ409_1_0 0.10 gneE462_1
+-gneE171_1 92.80 :gneJ157_1_0
+-gneE184_1 92.80 :gneJ170_0_0
+gneE240_1 100.00 :gneJ218_0_0
+:gneJ207_8_0 9.03 gneE233_1
+:gneJ207_9_0 14.40 -gneE225_1
+:gneJ207_10_0 13.44 gneE237_1
+:gneJ207_11_0 3.20 gneE226_1
+gneE262_1 92.80 :gneJ236_1_0
+:gneJ211_7_0 8.26 gneE230_1
+-gneE221_1 92.80 :gneJ203_0_0
+-gneE218_1 92.80 :gneJ150_0_0 :gneJ150_1_0
+-gneE230_1 92.80 :gneJ211_0_0 :gneJ211_1_0
+gneE255_1 92.80 :gneJ231_9_0 :gneJ231_10_0 :gneJ231_11_0
+-gneE216_1 100.00 :gneJ198_1_0
+gneE209_1 92.80 :gneJ192_0_0
+gneE256_1 92.80 :gneJ233_1_0
+-gneE208_1 92.80 :gneJ191_1_0
+:gneJ187_2_0 9.03 gneE205_1
+:gneJ187_3_0 14.19 -gneE202_1
+-gneE192_1 92.80 :gneJ118_3_0 :gneJ118_4_0 :gneJ118_5_0
+:gneJ126_6_0 4.28 -gneE133_1
+-gneE187_1 92.80 :gneJ172_0_0
+:gneJ187_7_0 4.28 gneE203_1
+gneE205_1 92.80 :gneJ189_1_0
+gneE198_1 100.00 :gneJ183_1_0
+-gneE120_1 92.80 :gneJ113_2_0 :gneJ113_3_0
+:gneJ113_4_0 4.75 :gneJ113_7_0
+:gneJ113_5_0 14.40 gneE496_1
+gneE462_1 92.80 :gneJ219_4_0 :gneJ219_5_0
+:gneJ157_1_0 0.10 -gneE170_1
+:gneJ170_0_0 0.10 -gneE183_1
+:gneJ218_0_0 0.10 gneE241_1
+:gneJ236_1_0 0.10 gneE263_1
+gneE230_1 92.80 :gneJ212_1_0
+:gneJ203_0_0 0.10 -gneE220_1
+:gneJ150_0_0 14.40 -gneE160_1
+:gneJ150_1_0 5.93 :gneJ150_6_0
+:gneJ211_0_0 9.03 -gneE229_1
+:gneJ211_1_0 14.19 gneE262_1
+:gneJ231_9_0 9.03 -gneE265_1
+:gneJ231_10_0 14.40 gneE324_1
+:gneJ231_11_0 14.19 -gneE253_1
+:gneJ198_1_0 0.10 -gneE215_1
+:gneJ192_0_0 0.10 gneE210_1
+:gneJ233_1_0 0.10 gneE257_1
+:gneJ191_1_0 0.10 -gneE207_1
+-gneE202_1 92.80 :gneJ186_0_0
+:gneJ118_3_0 9.03 -gneE124_1
+:gneJ118_4_0 14.40 -gneE131_1
+:gneJ118_5_0 14.19 -gneE137_1
+:gneJ172_0_0 0.10 -gneE186_1
+gneE203_1 92.80 :gneJ188_0_0
+:gneJ189_1_0 0.10 gneE206_1
+:gneJ183_1_0 0.10 gneE199_1
+:gneJ113_2_0 9.03 gneE496_1
+:gneJ113_3_0 14.19 -gneE119_1
+:gneJ113_7_0 4.28 gneE120_1
+gneE496_1 92.80 :gneJ440_1_0
+:gneJ219_4_0 14.40 gneE463_1
+:gneJ219_5_0 5.93 :gneJ219_7_0
+-gneE170_1 100.00 :gneJ156_1_0
+-gneE183_1 100.00 :gneJ169_0_0
+gneE241_1 92.80 :gneJ219_0_0 :gneJ219_1_0
+gneE263_1 92.80 :gneJ237_4_0 :gneJ237_5_0
+:gneJ212_1_0 0.10 gneE231_1
+-gneE220_1 92.80 :gneJ202_0_0 :gneJ202_1_0
+:gneJ150_6_0 8.26 gneE161_1
+-gneE229_1 92.80 :gneJ210_0_0
+-gneE265_1 92.80 :gneJ238_0_0
+gneE324_1 92.80 :gneJ291_1_0
+-gneE253_1 92.80 :gneJ230_1_0
+-gneE215_1 92.80 :gneJ197_4_0 :gneJ197_5_0
+gneE210_1 100.00 :gneJ193_0_0
+gneE257_1 92.80 :gneJ222_9_0 :gneJ222_10_0 :gneJ222_11_0
+-gneE207_1 92.80 :gneJ190_2_0 :gneJ190_3_0
+:gneJ186_0_0 0.10 -gneE201_1
+-gneE186_1 92.80 :gneJ128_2_0 :gneJ128_3_0
+:gneJ188_0_0 0.10 gneE204_1
+gneE206_1 92.80 :gneJ190_4_0 :gneJ190_5_0
+gneE199_1 100.00 :gneJ184_1_0
+-gneE119_1 92.80 :gneJ112_0_0
+gneE120_1 92.80 :gneJ114_0_0
+:gneJ440_1_0 0.10 gneE497_1
+gneE463_1 92.80 :gneJ410_1_0
+:gneJ219_7_0 8.26 -gneE241_1
+:gneJ156_1_0 0.10 -gneE169_1
+:gneJ169_0_0 0.10 -gneE182_1
+:gneJ219_0_0 9.03 -gneE462_1
+:gneJ219_1_0 14.19 gneE463_1
+:gneJ237_4_0 14.40 gneE339_1
+:gneJ237_5_0 5.93 :gneJ237_7_0
+gneE231_1 92.80 :gneJ200_6_0 :gneJ200_7_0 :gneJ200_8_0
+:gneJ202_0_0 14.40 -gneE219_1
+:gneJ202_1_0 5.93 :gneJ202_6_0
+:gneJ210_0_0 0.10 -gneE228_1
+:gneJ238_0_0 0.10 -gneE264_1
+:gneJ291_1_0 0.10 gneE325_1
+:gneJ230_1_0 0.10 -gneE252_1
+:gneJ197_4_0 4.75 :gneJ197_7_0
+:gneJ197_5_0 14.40 -gneE214_1
+:gneJ193_0_0 0.10 gneE211_1
+:gneJ222_9_0 9.03 gneE245_1
+:gneJ222_10_0 14.40 gneE266_1
+:gneJ222_11_0 14.19 -gneE535_1
+:gneJ190_2_0 9.03 gneE242_1
+:gneJ190_3_0 14.19 -gneE206_1
+-gneE201_1 92.80 :gneJ179_3_0 :gneJ179_4_0 :gneJ179_5_0
+:gneJ128_2_0 4.75 :gneJ128_6_0
+:gneJ128_3_0 14.40 -gneE135_1
+gneE204_1 92.80 :gneJ175_0_0 :gneJ175_1_0
+:gneJ190_4_0 4.75 :gneJ190_7_0
+:gneJ190_5_0 14.40 gneE242_1
+:gneJ184_1_0 0.10 gneE200_1
+:gneJ112_0_0 0.10 -gneE118_1
+:gneJ114_0_0 0.10 gneE121_1
+gneE497_1 92.80 :gneJ185_4_0 :gneJ185_5_0
+:gneJ410_1_0 0.10 gneE464_1
+-gneE241_1 92.80 :gneJ218_1_0
+-gneE169_1 100.00 :gneJ155_1_0
+-gneE182_1 100.00 :gneJ168_0_0
+-gneE462_1 92.80 :gneJ409_0_0
+gneE339_1 92.80 :gneJ305_1_0
+:gneJ237_7_0 8.26 gneE264_1
+:gneJ200_6_0 4.75 :gneJ200_14_0
+:gneJ200_7_0 14.40 -gneE217_1
+:gneJ200_8_0 5.93 :gneJ200_15_0
+:gneJ202_6_0 8.26 gneE232_1
+-gneE228_1 92.80 :gneJ209_3_0 :gneJ209_4_0 :gneJ209_5_0
+-gneE264_1 92.80 :gneJ237_0_0 :gneJ237_1_0
+gneE325_1 92.80 :gneJ292_4_0 :gneJ292_5_0
+-gneE252_1 100.00 :gneJ229_1_0
+:gneJ197_7_0 4.28 gneE258_1
+-gneE214_1 92.80 :gneJ196_1_0
+gneE211_1 92.80 :gneJ194_0_0 :gneJ194_1_0
+gneE245_1 92.80 :gneJ223_0_0
+gneE266_1 92.80 :gneJ239_1_0
+-gneE535_1 92.80 :gneJ473_1_0
+gneE242_1 92.80 :gneJ220_1_0
+-gneE206_1 92.80 :gneJ189_0_0
+:gneJ179_3_0 9.03 gneE196_1
+:gneJ179_4_0 14.40 -gneE193_1
+:gneJ179_5_0 14.19 -gneE195_1
+:gneJ128_6_0 4.28 gneE136_1
+:gneJ175_0_0 9.03 -gneE189_1
+:gneJ175_1_0 14.19 gneE190_1
+:gneJ190_7_0 4.28 gneE207_1
+gneE200_1 92.80 :gneJ185_2_0 :gneJ185_3_0
+-gneE118_1 100.00 :gneJ111_0_0
+gneE121_1 100.00 :gneJ115_0_0
+:gneJ185_4_0 4.75 :gneJ185_7_0
+:gneJ185_5_0 14.40 gneE498_1
+gneE464_1 100.00 :gneJ411_1_0
+:gneJ218_1_0 0.10 -gneE240_1
+:gneJ155_1_0 0.10 -gneE168_1
+:gneJ168_0_0 0.10 -gneE181_1
+:gneJ409_0_0 0.10 -gneE461_1
+:gneJ305_1_0 0.10 gneE340_1
+gneE264_1 92.80 :gneJ238_1_0
+:gneJ200_14_0 4.28 gneE254_1
+:gneJ200_15_0 8.26 -gneE223_1
+:gneJ209_3_0 4.75 :gneJ209_12_0
+:gneJ209_4_0 14.40 -gneE227_1
+:gneJ209_5_0 14.40 -gneE234_1
+:gneJ237_0_0 9.03 -gneE263_1
+:gneJ237_1_0 14.19 gneE339_1
+:gneJ292_4_0 4.75 :gneJ292_7_0
+:gneJ292_5_0 14.40 gneE326_1
+:gneJ229_1_0 0.10 -gneE251_1
+gneE258_1 92.80 :gneJ234_1_0
+:gneJ196_1_0 0.10 -gneE213_1
+:gneJ194_0_0 14.40 gneE212_1
+:gneJ194_1_0 5.93 :gneJ194_6_0
+:gneJ223_0_0 0.10 gneE246_1
+:gneJ239_1_0 0.10 gneE267_1
+:gneJ473_1_0 0.10 -gneE534_1
+:gneJ220_1_0 0.10 gneE243_1
+:gneJ189_0_0 0.10 -gneE205_1
+-gneE189_1 92.80 :gneJ174_0_0
+gneE207_1 92.80 :gneJ191_0_0
+:gneJ185_2_0 9.03 gneE498_1
+:gneJ185_3_0 14.19 -gneE497_1
+:gneJ111_0_0 0.10 -gneE117_1
+:gneJ115_0_0 0.10 gneE122_1
+:gneJ185_7_0 4.28 -gneE200_1
+gneE498_1 92.80 :gneJ441_1_0
+:gneJ411_1_0 0.10 gneE465_1
+-gneE240_1 100.00 :gneJ217_1_0
+-gneE168_1 100.00 :gneJ154_1_0
+-gneE181_1 100.00 :gneJ167_0_0
+-gneE461_1 92.80 :gneJ158_2_0 :gneJ158_3_0
+gneE340_1 92.80 :gneJ306_4_0 :gneJ306_5_0
+:gneJ238_1_0 0.10 gneE265_1
+-gneE223_1 92.80 :gneJ205_0_0
+:gneJ209_12_0 4.28 -gneE235_1
+-gneE263_1 92.80 :gneJ236_0_0
+:gneJ292_7_0 4.28 gneE354_1
+gneE326_1 92.80 :gneJ293_1_0
+-gneE251_1 92.80 :gneJ228_2_0 :gneJ228_3_0
+:gneJ234_1_0 0.10 gneE259_1
+-gneE213_1 100.00 :gneJ195_1_0
+gneE212_1 92.80 :gneJ195_0_0
+:gneJ194_6_0 8.26 gneE260_1
+gneE246_1 100.00 :gneJ224_0_0
+gneE267_1 92.80 :gneJ240_4_0 :gneJ240_5_0
+-gneE534_1 92.80 :gneJ221_2_0 :gneJ221_3_0
+gneE243_1 92.80 :gneJ221_4_0 :gneJ221_5_0
+-gneE205_1 92.80 :gneJ187_0_0 :gneJ187_1_0
+:gneJ174_0_0 0.10 -gneE188_1
+:gneJ191_0_0 0.10 gneE208_1
+-gneE497_1 92.80 :gneJ440_0_0
+-gneE117_1 100.00 :gneJ110_0_0
+gneE122_1 100.00 :gneJ116_0_0
+-gneE200_1 92.80 :gneJ184_0_0
+:gneJ441_1_0 0.10 gneE499_1
+gneE465_1 100.00 :gneJ412_1_0
+:gneJ217_1_0 0.10 -gneE239_1
+:gneJ154_1_0 0.10 -gneE167_1
+:gneJ167_0_0 0.10 -gneE180_1
+:gneJ158_2_0 4.75 :gneJ158_6_0
+:gneJ158_3_0 14.40 -gneE184_1
+:gneJ306_4_0 14.40 gneE341_1
+:gneJ306_5_0 5.93 :gneJ306_7_0
+gneE265_1 92.80 :gneJ231_6_0 :gneJ231_7_0 :gneJ231_8_0
+:gneJ205_0_0 0.10 -gneE222_1
+:gneJ236_0_0 0.10 -gneE262_1
+gneE354_1 92.80 :gneJ319_0_0
+:gneJ293_1_0 0.10 gneE327_1
+:gneJ228_2_0 14.40 -gneE250_1
+:gneJ228_3_0 5.93 :gneJ228_7_0
+gneE259_1 92.80 :gneJ228_4_0 :gneJ228_5_0
+:gneJ195_1_0 0.10 -gneE212_1
+:gneJ195_0_0 0.10 gneE213_1
+gneE260_1 92.80 :gneJ235_1_0
+:gneJ224_0_0 0.10 gneE247_1
+:gneJ240_4_0 14.40 gneE268_1
+:gneJ240_5_0 5.93 :gneJ240_7_0
+:gneJ221_2_0 9.03 gneE273_1
+:gneJ221_3_0 14.19 -gneE243_1
+:gneJ221_4_0 4.75 :gneJ221_7_0
+:gneJ221_5_0 14.40 gneE273_1
+:gneJ187_0_0 14.40 -gneE202_1
+:gneJ187_1_0 5.93 :gneJ187_6_0
+-gneE188_1 92.80 :gneJ173_2_0 :gneJ173_3_0
+gneE208_1 92.80 :gneJ177_0_0 :gneJ177_1_0 :gneJ177_2_0
+:gneJ440_0_0 0.10 -gneE496_1
+:gneJ110_0_0 0.10 -gneE116_1
+:gneJ116_0_0 0.10 gneE123_1
+:gneJ184_0_0 0.10 -gneE199_1
+gneE499_1 100.00 :gneJ442_1_0
+:gneJ412_1_0 0.10 gneE466_1
+-gneE239_1 100.00 :gneJ216_1_0
+-gneE167_1 92.80 :gneJ143_6_0 :gneJ143_7_0 :gneJ143_8_0
+-gneE180_1 100.00 :gneJ166_0_0
+:gneJ158_6_0 4.28 -gneE171_1
+gneE341_1 92.80 :gneJ307_1_0
+:gneJ306_7_0 8.26 -gneE355_1
+:gneJ231_6_0 4.75 :gneJ231_14_0
+:gneJ231_7_0 14.40 -gneE253_1
+:gneJ231_8_0 5.93 :gneJ231_15_0
+-gneE222_1 92.80 :gneJ204_0_0 :gneJ204_1_0
+-gneE262_1 92.80 :gneJ211_2_0 :gneJ211_3_0
+:gneJ319_0_0 0.10 gneE355_1
+gneE327_1 100.00 :gneJ294_1_0
+-gneE250_1 92.80 :gneJ227_1_0
+:gneJ228_7_0 8.26 -gneE259_1
+:gneJ228_4_0 9.03 gneE251_1
+:gneJ228_5_0 14.19 -gneE250_1
+-gneE212_1 92.80 :gneJ194_4_0 :gneJ194_5_0
+gneE213_1 100.00 :gneJ196_0_0
+:gneJ235_1_0 0.10 gneE261_1
+gneE247_1 92.80 :gneJ225_0_0 :gneJ225_1_0
+gneE268_1 92.80 :gneJ241_1_0
+:gneJ240_7_0 8.26 -gneE281_1
+gneE273_1 92.80 :gneJ246_1_0
+-gneE243_1 92.80 :gneJ220_0_0
+:gneJ221_7_0 4.28 gneE534_1
+:gneJ187_6_0 8.26 gneE203_1
+:gneJ173_2_0 4.75 :gneJ173_6_0
+:gneJ173_3_0 14.40 -gneE187_1
+:gneJ177_0_0 4.75 :gneJ177_12_0
+:gneJ177_1_0 14.40 gneE209_1
+:gneJ177_2_0 5.93 :gneJ177_13_0
+-gneE496_1 92.80 :gneJ113_0_0 :gneJ113_1_0
+-gneE116_1 100.00 :gneJ109_0_0
+gneE123_1 100.00 :gneJ117_0_0
+-gneE199_1 100.00 :gneJ183_0_0
+:gneJ442_1_0 0.10 -gneE500_1
+gneE466_1 100.00 :gneJ413_1_0
+:gneJ216_1_0 0.10 -gneE238_1
+:gneJ143_6_0 4.75 :gneJ143_14_0
+:gneJ143_7_0 14.40 -gneE162_1
+:gneJ143_8_0 5.93 :gneJ143_15_0
+:gneJ166_0_0 0.10 -gneE179_1
+:gneJ307_1_0 0.10 gneE342_1
+-gneE355_1 92.80 :gneJ319_1_0
+:gneJ231_14_0 4.28 gneE324_1
+:gneJ231_15_0 8.26 -gneE255_1
+:gneJ204_0_0 14.40 -gneE221_1
+:gneJ204_1_0 5.93 :gneJ204_6_0
+:gneJ211_2_0 4.75 :gneJ211_6_0
+:gneJ211_3_0 14.40 -gneE229_1
+gneE355_1 92.80 :gneJ306_0_0 :gneJ306_1_0
+:gneJ294_1_0 0.10 gneE328_1
+:gneJ227_1_0 0.10 -gneE249_1
+-gneE259_1 92.80 :gneJ234_0_0
+gneE251_1 92.80 :gneJ229_0_0
+:gneJ194_4_0 4.75 :gneJ194_7_0
+:gneJ194_5_0 14.40 -gneE211_1
+:gneJ196_0_0 0.10 gneE214_1
+gneE261_1 92.80 :gneJ225_4_0 :gneJ225_5_0
+:gneJ225_0_0 4.75 :gneJ225_6_0
+:gneJ225_1_0 14.40 gneE248_1
+:gneJ241_1_0 0.10 gneE269_1
+-gneE281_1 92.80 :gneJ253_1_0
+:gneJ246_1_0 0.10 gneE274_1
+:gneJ220_0_0 0.10 -gneE242_1
+gneE534_1 92.80 :gneJ473_0_0
+:gneJ173_6_0 4.28 -gneE194_1
+:gneJ177_12_0 4.28 -gneE191_1
+:gneJ177_13_0 8.26 gneE256_1
+:gneJ113_0_0 14.40 -gneE119_1
+:gneJ113_1_0 5.93 :gneJ113_6_0
+:gneJ109_0_0 0.10 -gneE115_1
+:gneJ117_0_0 0.10 gneE124_1
+:gneJ183_0_0 0.10 -gneE198_1
+-gneE500_1 100.00 :gneJ443_1_0
+:gneJ413_1_0 0.10 gneE467_1
+-gneE238_1 100.00 :gneJ215_1_0
+:gneJ143_14_0 4.28 gneE224_1
+:gneJ143_15_0 8.26 -gneE152_1
+-gneE179_1 100.00 :gneJ165_0_0
+gneE342_1 100.00 :gneJ308_1_0
+:gneJ319_1_0 0.10 -gneE354_1
+-gneE255_1 92.80 :gneJ232_0_0
+:gneJ204_6_0 8.26 -gneE236_1
+:gneJ211_6_0 4.28 gneE230_1
+:gneJ306_0_0 9.03 -gneE340_1
+:gneJ306_1_0 14.19 gneE341_1
+gneE328_1 92.80 :gneJ295_4_0 :gneJ295_5_0
+-gneE249_1 100.00 :gneJ226_1_0
+:gneJ234_0_0 0.10 -gneE258_1
+:gneJ229_0_0 0.10 gneE252_1
+:gneJ194_7_0 4.28 gneE260_1
+-gneE211_1 92.80 :gneJ193_1_0
+gneE214_1 92.80 :gneJ197_0_0 :gneJ197_1_0
+:gneJ225_4_0 9.03 gneE248_1
+:gneJ225_5_0 14.19 -gneE247_1
+:gneJ225_6_0 4.28 -gneE261_1
+gneE248_1 92.80 :gneJ226_0_0
+gneE269_1 100.00 :gneJ242_1_0
+:gneJ253_1_0 0.10 -gneE280_1
+gneE274_1 92.80 :gneJ247_4_0 :gneJ247_5_0
+-gneE242_1 92.80 :gneJ190_0_0 :gneJ190_1_0
+:gneJ473_0_0 0.10 gneE535_1
+-gneE191_1 92.80 :gneJ176_0_0
+:gneJ113_6_0 8.26 gneE120_1
+-gneE115_1 100.00 :gneJ108_0_0
+gneE124_1 92.80 :gneJ118_0_0 :gneJ118_1_0 :gneJ118_2_0
+-gneE198_1 100.00 :gneJ182_0_0
+:gneJ443_1_0 0.10 gneE502_1
+gneE467_1 100.00 :gneJ414_1_0
+:gneJ215_1_0 0.10 -gneE237_1
+:gneJ165_0_0 0.10 -gneE178_1
+:gneJ308_1_0 0.10 gneE343_1
+-gneE354_1 92.80 :gneJ292_2_0 :gneJ292_3_0
+:gneJ232_0_0 0.10 -gneE254_1
+-gneE340_1 92.80 :gneJ305_0_0
+:gneJ295_4_0 4.75 :gneJ295_7_0
+:gneJ295_5_0 14.40 gneE329_1
+:gneJ226_1_0 0.10 -gneE248_1
+-gneE258_1 92.80 :gneJ197_2_0 :gneJ197_3_0
+gneE252_1 100.00 :gneJ230_0_0
+:gneJ193_1_0 0.10 -gneE210_1
+:gneJ197_0_0 14.40 gneE215_1
+:gneJ197_1_0 5.93 :gneJ197_6_0
+-gneE247_1 92.80 :gneJ224_1_0
+-gneE261_1 92.80 :gneJ235_0_0
+:gneJ226_0_0 0.10 gneE249_1
+:gneJ242_1_0 0.10 gneE270_1
+-gneE280_1 92.80 :gneJ247_2_0 :gneJ247_3_0
+:gneJ247_4_0 4.75 :gneJ247_7_0
+:gneJ247_5_0 14.40 gneE275_1
+:gneJ190_0_0 14.40 -gneE206_1
+:gneJ190_1_0 5.93 :gneJ190_6_0
+gneE535_1 92.80 :gneJ222_0_0 :gneJ222_1_0 :gneJ222_2_0
+:gneJ176_0_0 0.10 -gneE190_1
+:gneJ108_0_0 0.10 -gneE114_1
+:gneJ118_0_0 4.75 :gneJ118_12_0
+:gneJ118_1_0 14.40 -gneE137_1
+:gneJ118_2_0 5.93 :gneJ118_13_0
+:gneJ182_0_0 0.10 -gneE197_1
+gneE502_1 100.00 :gneJ445_1_0
+:gneJ414_1_0 0.10 gneE468_1
+-gneE237_1 92.80 :gneJ207_12_0 :gneJ207_13_0 :gneJ207_14_0 :gneJ207_15_0
+-gneE178_1 100.00 :gneJ164_0_0
+gneE343_1 92.80 :gneJ309_4_0 :gneJ309_5_0
+:gneJ292_2_0 9.03 gneE326_1
+:gneJ292_3_0 14.19 -gneE325_1
+-gneE254_1 92.80 :gneJ200_3_0 :gneJ200_4_0 :gneJ200_5_0
+:gneJ305_0_0 0.10 -gneE339_1
+:gneJ295_7_0 4.28 gneE356_1
+gneE329_1 92.80 :gneJ296_1_0
+-gneE248_1 92.80 :gneJ225_2_0 :gneJ225_3_0
+:gneJ197_2_0 9.03 -gneE214_1
+:gneJ197_3_0 14.19 gneE215_1
+:gneJ230_0_0 0.10 gneE253_1
+-gneE210_1 100.00 :gneJ192_1_0
+gneE215_1 92.80 :gneJ198_0_0
+:gneJ197_6_0 8.26 gneE258_1
+:gneJ224_1_0 0.10 -gneE246_1
+:gneJ235_0_0 0.10 -gneE260_1
+gneE249_1 100.00 :gneJ227_0_0
+gneE270_1 92.80 :gneJ243_4_0 :gneJ243_5_0
+:gneJ247_2_0 9.03 gneE275_1
+:gneJ247_3_0 14.19 -gneE274_1
+:gneJ247_7_0 4.28 gneE280_1
+gneE275_1 92.80 :gneJ248_1_0
+:gneJ190_6_0 8.26 gneE207_1
+:gneJ222_0_0 4.75 :gneJ222_12_0
+:gneJ222_1_0 14.40 gneE245_1
+:gneJ222_2_0 5.93 :gneJ222_13_0
+-gneE190_1 92.80 :gneJ175_2_0 :gneJ175_3_0
+-gneE114_1 100.00 :gneJ107_0_0
+:gneJ118_12_0 4.28 -gneE131_1
+:gneJ118_13_0 8.26 gneE192_1
+-gneE197_1 100.00 :gneJ181_0_0
+:gneJ445_1_0 0.10 gneE503_1
+gneE468_1 100.00 :gneJ415_1_0
+:gneJ207_12_0 4.75 :gneJ207_23_0
+:gneJ207_13_0 9.03 gneE234_1
+:gneJ207_14_0 14.40 gneE233_1
+:gneJ207_15_0 5.93 :gneJ207_24_0
+:gneJ164_0_0 0.10 -gneE177_1
+:gneJ309_4_0 14.40 gneE344_1
+:gneJ309_5_0 5.93 :gneJ309_7_0
+-gneE325_1 92.80 :gneJ291_0_0
+:gneJ200_3_0 9.03 -gneE217_1
+:gneJ200_4_0 14.40 -gneE223_1
+:gneJ200_5_0 14.19 -gneE231_1
+-gneE339_1 92.80 :gneJ237_2_0 :gneJ237_3_0
+gneE356_1 92.80 :gneJ320_0_0
+:gneJ296_1_0 0.10 -gneE330_1
+:gneJ225_2_0 14.40 -gneE247_1
+:gneJ225_3_0 5.93 :gneJ225_7_0
+gneE253_1 92.80 :gneJ231_0_0 :gneJ231_1_0 :gneJ231_2_0
+:gneJ192_1_0 0.10 -gneE209_1
+:gneJ198_0_0 0.10 gneE216_1
+-gneE246_1 100.00 :gneJ223_1_0
+-gneE260_1 92.80 :gneJ194_2_0 :gneJ194_3_0
+:gneJ227_0_0 0.10 gneE250_1
+:gneJ243_4_0 14.40 gneE271_1
+:gneJ243_5_0 5.93 :gneJ243_7_0
+-gneE274_1 92.80 :gneJ246_0_0
+gneE280_1 92.80 :gneJ253_0_0
+:gneJ248_1_0 0.10 gneE276_1
+:gneJ222_12_0 4.28 -gneE257_1
+:gneJ222_13_0 8.26 gneE266_1
+:gneJ175_2_0 4.75 :gneJ175_6_0
+:gneJ175_3_0 14.40 -gneE189_1
+:gneJ107_0_0 0.10 -gneE113_1
+:gneJ181_0_0 0.10 -gneE196_1
+gneE503_1 100.00 :gneJ446_1_0
+:gneJ415_1_0 0.10 gneE469_1
+:gneJ207_23_0 4.28 gneE226_1
+:gneJ207_24_0 8.26 -gneE225_1
+-gneE177_1 100.00 :gneJ163_0_0
+gneE344_1 92.80 :gneJ310_1_0
+:gneJ309_7_0 8.26 -gneE357_1
+:gneJ291_0_0 0.10 -gneE324_1
+:gneJ237_2_0 4.75 :gneJ237_6_0
+:gneJ237_3_0 14.40 -gneE263_1
+:gneJ320_0_0 0.10 gneE357_1
+-gneE330_1 92.80 :gneJ297_4_0 :gneJ297_5_0
+:gneJ225_7_0 8.26 -gneE261_1
+:gneJ231_0_0 4.75 :gneJ231_12_0
+:gneJ231_1_0 14.40 -gneE265_1
+:gneJ231_2_0 5.93 :gneJ231_13_0
+-gneE209_1 92.80 :gneJ177_6_0 :gneJ177_7_0 :gneJ177_8_0
+gneE216_1 100.00 :gneJ199_0_0
+:gneJ223_1_0 0.10 -gneE245_1
+:gneJ194_2_0 9.03 -gneE211_1
+:gneJ194_3_0 14.19 gneE212_1
+gneE250_1 92.80 :gneJ228_0_0 :gneJ228_1_0
+gneE271_1 92.80 :gneJ244_1_0
+:gneJ243_7_0 8.26 -gneE283_1
+:gneJ246_0_0 0.10 -gneE273_1
+:gneJ253_0_0 0.10 gneE281_1
+gneE276_1 100.00 :gneJ249_1_0
+-gneE257_1 92.80 :gneJ233_0_0
+:gneJ175_6_0 4.28 -gneE204_1
+-gneE113_1 100.00 :gneJ106_0_0
+-gneE196_1 92.80 :gneJ179_0_0 :gneJ179_1_0 :gneJ179_2_0
+:gneJ446_1_0 0.10 gneE504_1
+gneE469_1 100.00 :gneJ416_1_0
+:gneJ163_0_0 0.10 -gneE176_1
+:gneJ310_1_0 0.10 gneE345_1
+-gneE357_1 92.80 :gneJ320_1_0
+-gneE324_1 92.80 :gneJ231_3_0 :gneJ231_4_0 :gneJ231_5_0
+:gneJ237_6_0 4.28 gneE264_1
+gneE357_1 92.80 :gneJ309_0_0 :gneJ309_1_0
+:gneJ297_4_0 4.75 :gneJ297_7_0
+:gneJ297_5_0 14.40 gneE331_1
+:gneJ231_12_0 4.28 -gneE255_1
+:gneJ231_13_0 8.26 gneE324_1
+:gneJ177_6_0 4.75 :gneJ177_14_0
+:gneJ177_7_0 14.40 -gneE208_1
+:gneJ177_8_0 5.93 :gneJ177_15_0
+:gneJ199_0_0 0.10 gneE217_1
+-gneE245_1 92.80 :gneJ222_6_0 :gneJ222_7_0 :gneJ222_8_0
+:gneJ228_0_0 4.75 :gneJ228_6_0
+:gneJ228_1_0 14.40 gneE251_1
+:gneJ244_1_0 0.10 gneE272_1
+-gneE283_1 92.80 :gneJ254_1_0
+-gneE273_1 92.80 :gneJ221_0_0 :gneJ221_1_0
+gneE281_1 92.80 :gneJ240_0_0 :gneJ240_1_0
+:gneJ249_1_0 0.10 gneE277_1
+:gneJ233_0_0 0.10 -gneE256_1
+:gneJ106_0_0 0.10 -gneE112_1
+:gneJ179_0_0 4.75 :gneJ179_12_0
+:gneJ179_1_0 14.40 -gneE195_1
+:gneJ179_2_0 5.93 :gneJ179_13_0
+gneE504_1 100.00 :gneJ447_1_0
+:gneJ416_1_0 0.10 gneE470_1
+-gneE176_1 100.00 :gneJ162_0_0
+gneE345_1 92.80 :gneJ311_9_0 :gneJ311_10_0 :gneJ311_11_0
+:gneJ320_1_0 0.10 -gneE356_1
+:gneJ231_3_0 9.03 -gneE253_1
+:gneJ231_4_0 14.40 -gneE255_1
+:gneJ231_5_0 14.19 -gneE265_1
+:gneJ309_0_0 9.03 -gneE343_1
+:gneJ309_1_0 14.19 gneE344_1
+:gneJ297_7_0 4.28 gneE358_1
+gneE331_1 92.80 :gneJ298_1_0
+:gneJ177_14_0 4.28 gneE256_1
+:gneJ177_15_0 8.26 -gneE191_1
+gneE217_1 92.80 :gneJ200_0_0 :gneJ200_1_0 :gneJ200_2_0
+:gneJ222_6_0 4.75 :gneJ222_14_0
+:gneJ222_7_0 14.40 -gneE535_1
+:gneJ222_8_0 5.93 :gneJ222_15_0
+:gneJ228_6_0 4.28 -gneE259_1
+gneE272_1 92.80 :gneJ245_4_0 :gneJ245_5_0
+:gneJ254_1_0 0.10 -gneE282_1
+:gneJ221_0_0 14.40 -gneE243_1
+:gneJ221_1_0 5.93 :gneJ221_6_0
+:gneJ240_0_0 9.03 -gneE267_1
+:gneJ240_1_0 14.19 gneE268_1
+gneE277_1 92.80 :gneJ250_4_0 :gneJ250_5_0
+-gneE256_1 92.80 :gneJ177_3_0 :gneJ177_4_0 :gneJ177_5_0
+-gneE112_1 100.00 :gneJ105_0_0
+:gneJ179_12_0 4.28 -gneE193_1
+:gneJ179_13_0 8.26 gneE201_1
+:gneJ447_1_0 0.10 gneE505_1
+gneE470_1 100.00 :gneJ417_1_0
+:gneJ162_0_0 0.10 -gneE175_1
+:gneJ311_9_0 9.03 gneE364_1
+:gneJ311_10_0 14.40 gneE346_1
+:gneJ311_11_0 14.19 -gneE359_1
+-gneE356_1 92.80 :gneJ295_2_0 :gneJ295_3_0
+-gneE343_1 92.80 :gneJ308_0_0
+gneE358_1 92.80 :gneJ321_0_0
+:gneJ298_1_0 0.10 gneE332_1
+:gneJ200_0_0 4.75 :gneJ200_12_0
+:gneJ200_1_0 14.40 -gneE231_1
+:gneJ200_2_0 5.93 :gneJ200_13_0
+:gneJ222_14_0 4.28 gneE266_1
+:gneJ222_15_0 8.26 -gneE257_1
+:gneJ245_4_0 14.40 gneE298_1
+:gneJ245_5_0 5.93 :gneJ245_7_0
+-gneE282_1 92.80 :gneJ250_2_0 :gneJ250_3_0
+:gneJ221_6_0 8.26 gneE534_1
+-gneE267_1 92.80 :gneJ239_0_0
+:gneJ250_4_0 4.75 :gneJ250_7_0
+:gneJ250_5_0 14.40 gneE278_1
+:gneJ177_3_0 9.03 -gneE208_1
+:gneJ177_4_0 14.40 -gneE191_1
+:gneJ177_5_0 14.19 gneE209_1
+:gneJ105_0_0 0.10 -gneE111_1
+gneE505_1 100.00 :gneJ448_1_0
+:gneJ417_1_0 0.10 gneE471_1
+-gneE175_1 100.00 :gneJ161_0_0
+gneE364_1 92.80 :gneJ324_0_0
+gneE346_1 92.80 :gneJ312_1_0
+-gneE359_1 92.80 :gneJ321_1_0
+:gneJ295_2_0 9.03 gneE329_1
+:gneJ295_3_0 14.19 -gneE328_1
+:gneJ308_0_0 0.10 -gneE342_1
+:gneJ321_0_0 0.10 gneE359_1
+gneE332_1 92.80 :gneJ299_4_0 :gneJ299_5_0
+:gneJ200_12_0 4.28 -gneE223_1
+:gneJ200_13_0 8.26 gneE254_1
+gneE298_1 92.80 :gneJ269_1_0
+:gneJ245_7_0 8.26 -gneE285_1
+:gneJ250_2_0 9.03 gneE278_1
+:gneJ250_3_0 14.19 -gneE277_1
+:gneJ239_0_0 0.10 -gneE266_1
+:gneJ250_7_0 4.28 gneE282_1
+gneE278_1 92.80 :gneJ251_1_0
+-gneE111_1 100.00 :gneJ104_0_0
+:gneJ448_1_0 0.10 gneE506_1
+gneE471_1 100.00 :gneJ418_1_0
+:gneJ161_0_0 0.10 -gneE174_1
+:gneJ324_0_0 0.10 -gneE367_1
+:gneJ312_1_0 0.10 gneE347_1
+:gneJ321_1_0 0.10 -gneE358_1
+-gneE328_1 92.80 :gneJ294_0_0
+-gneE342_1 100.00 :gneJ307_0_0
+gneE359_1 92.80 :gneJ311_0_0 :gneJ311_1_0 :gneJ311_2_0
+:gneJ299_4_0 4.75 :gneJ299_7_0
+:gneJ299_5_0 14.40 gneE333_1
+:gneJ269_1_0 0.10 gneE299_1
+-gneE285_1 92.80 :gneJ255_1_0
+-gneE277_1 92.80 :gneJ249_0_0
+-gneE266_1 92.80 :gneJ222_3_0 :gneJ222_4_0 :gneJ222_5_0
+gneE282_1 92.80 :gneJ254_0_0
+:gneJ251_1_0 0.10 gneE279_1
+:gneJ104_0_0 0.10 -gneE110_1
+gneE506_1 100.00 :gneJ449_1_0
+:gneJ418_1_0 0.10 gneE472_1
+-gneE174_1 100.00 :gneJ160_0_0
+-gneE367_1 100.00 :gneJ327_0_0
+gneE347_1 92.80 :gneJ313_9_0 :gneJ313_10_0 :gneJ313_11_0
+-gneE358_1 92.80 :gneJ297_2_0 :gneJ297_3_0
+:gneJ294_0_0 0.10 -gneE327_1
+:gneJ307_0_0 0.10 -gneE341_1
+:gneJ311_0_0 4.75 :gneJ311_12_0
+:gneJ311_1_0 14.40 gneE364_1
+:gneJ311_2_0 5.93 :gneJ311_13_0
+:gneJ299_7_0 4.28 gneE360_1
+gneE333_1 92.80 :gneJ300_1_0
+gneE299_1 92.80 :gneJ268_4_0 :gneJ268_5_0
+:gneJ255_1_0 0.10 -gneE284_1
+:gneJ249_0_0 0.10 -gneE276_1
+:gneJ222_3_0 9.03 -gneE535_1
+:gneJ222_4_0 14.40 -gneE257_1
+:gneJ222_5_0 14.19 gneE245_1
+:gneJ254_0_0 0.10 gneE283_1
+gneE279_1 92.80 :gneJ252_9_0 :gneJ252_10_0 :gneJ252_11_0
+-gneE110_1 100.00 :gneJ103_0_0
+:gneJ449_1_0 0.10 gneE507_1
+gneE472_1 100.00 :gneJ419_1_0
+:gneJ160_0_0 0.10 -gneE173_1
+:gneJ327_0_0 0.10 gneE368_1
+:gneJ313_9_0 9.03 gneE371_1
+:gneJ313_10_0 14.40 gneE348_1
+:gneJ313_11_0 14.19 -gneE361_1
+:gneJ297_2_0 9.03 gneE331_1
+:gneJ297_3_0 14.19 gneE330_1
+-gneE327_1 100.00 :gneJ293_0_0
+-gneE341_1 92.80 :gneJ306_2_0 :gneJ306_3_0
+:gneJ311_12_0 4.28 -gneE345_1
+:gneJ311_13_0 8.26 gneE346_1
+gneE360_1 92.80 :gneJ322_0_0
+:gneJ300_1_0 0.10 gneE334_1
+:gneJ268_4_0 14.40 gneE303_1
+:gneJ268_5_0 5.93 :gneJ268_7_0
+-gneE284_1 92.80 :gneJ252_6_0 :gneJ252_7_0 :gneJ252_8_0
+-gneE276_1 100.00 :gneJ248_0_0
+gneE283_1 92.80 :gneJ243_0_0 :gneJ243_1_0
+:gneJ252_9_0 9.03 gneE284_1
+:gneJ252_10_0 14.40 gneE300_1
+:gneJ252_11_0 14.19 gneE286_1
+:gneJ103_0_0 0.10 -gneE109_1
+gneE507_1 100.00 :gneJ450_1_0
+:gneJ419_1_0 0.10 gneE473_1
+-gneE173_1 100.00 :gneJ159_0_0
+gneE368_1 100.00 :gneJ328_0_0
+gneE371_1 92.80 :gneJ331_0_0
+gneE348_1 92.80 :gneJ314_1_0
+-gneE361_1 92.80 :gneJ322_1_0
+gneE330_1 92.80 :gneJ296_0_0
+:gneJ293_0_0 0.10 -gneE326_1
+:gneJ306_2_0 4.75 :gneJ306_6_0
+:gneJ306_3_0 14.40 -gneE340_1
+-gneE345_1 92.80 :gneJ310_0_0
+:gneJ322_0_0 0.10 gneE361_1
+gneE334_1 92.80 :gneJ301_4_0 :gneJ301_5_0
+gneE303_1 92.80 :gneJ272_1_0
+:gneJ268_7_0 8.26 -gneE297_1
+:gneJ252_6_0 4.75 :gneJ252_14_0
+:gneJ252_7_0 14.40 gneE286_1
+:gneJ252_8_0 5.93 :gneJ252_15_0
+:gneJ248_0_0 0.10 -gneE275_1
+:gneJ243_0_0 9.03 -gneE270_1
+:gneJ243_1_0 14.19 gneE271_1
+gneE284_1 92.80 :gneJ255_0_0
+gneE300_1 92.80 :gneJ270_1_0
+gneE286_1 92.80 :gneJ256_1_0
+-gneE109_1 100.00 :gneJ102_0_0
+:gneJ450_1_0 0.10 gneE508_1
+gneE473_1 100.00 :gneJ420_1_0
+:gneJ159_0_0 0.10 -gneE172_1
+:gneJ328_0_0 0.10 gneE369_1
+:gneJ331_0_0 0.10 gneE372_1
+:gneJ314_1_0 0.10 gneE349_1
+:gneJ322_1_0 0.10 -gneE360_1
+:gneJ296_0_0 0.10 -gneE329_1
+-gneE326_1 92.80 :gneJ292_0_0 :gneJ292_1_0
+:gneJ306_6_0 4.28 -gneE355_1
+:gneJ310_0_0 0.10 -gneE344_1
+gneE361_1 92.80 :gneJ313_0_0 :gneJ313_1_0 :gneJ313_2_0
+:gneJ301_4_0 4.75 :gneJ301_7_0
+:gneJ301_5_0 14.40 gneE335_1
+:gneJ272_1_0 0.10 gneE304_1
+-gneE297_1 92.80 :gneJ267_1_0
+:gneJ252_14_0 4.28 gneE300_1
+:gneJ252_15_0 8.26 -gneE279_1
+-gneE275_1 92.80 :gneJ247_0_0 :gneJ247_1_0
+-gneE270_1 92.80 :gneJ242_0_0
+:gneJ255_0_0 0.10 gneE285_1
+:gneJ270_1_0 0.10 gneE301_1
+:gneJ256_1_0 0.10 gneE287_1
+:gneJ102_0_0 0.10 -gneE108_1
+gneE508_1 100.00 :gneJ451_1_0
+:gneJ420_1_0 0.10 gneE474_1
+-gneE172_1 94.80 :gneJ38_1_0
+gneE369_1 100.00 :gneJ329_0_0
+gneE372_1 100.00 :gneJ332_0_0
+gneE349_1 92.80 :gneJ315_4_0 :gneJ315_5_0
+-gneE360_1 92.80 :gneJ299_2_0 :gneJ299_3_0
+-gneE329_1 92.80 :gneJ295_0_0 :gneJ295_1_0
+:gneJ292_0_0 14.40 -gneE325_1
+:gneJ292_1_0 5.93 :gneJ292_6_0
+-gneE344_1 92.80 :gneJ309_2_0 :gneJ309_3_0
+:gneJ313_0_0 4.75 :gneJ313_12_0
+:gneJ313_1_0 14.40 gneE371_1
+:gneJ313_2_0 5.93 :gneJ313_13_0
+:gneJ301_7_0 4.28 gneE362_1
+gneE335_1 92.80 :gneJ302_1_0
+gneE304_1 92.80 :gneJ273_4_0 :gneJ273_5_0
+:gneJ267_1_0 0.10 -gneE296_1
+-gneE279_1 92.80 :gneJ251_0_0
+:gneJ247_0_0 14.40 -gneE274_1
+:gneJ247_1_0 5.93 :gneJ247_6_0
+:gneJ242_0_0 0.10 -gneE269_1
+gneE285_1 92.80 :gneJ245_0_0 :gneJ245_1_0
+gneE301_1 92.80 :gneJ266_9_0 :gneJ266_10_0 :gneJ266_11_0
+gneE287_1 100.00 :gneJ257_1_0
+-gneE108_1 100.00 :gneJ101_0_0
+:gneJ451_1_0 0.10 gneE509_1
+gneE474_1 100.00 :gneJ421_1_0
+:gneJ38_1_0 5.81 -gneE32_1
+:gneJ329_0_0 0.10 gneE370_1
+:gneJ332_0_0 0.10 gneE373_1
+:gneJ315_4_0 14.40 gneE350_1
+:gneJ315_5_0 5.93 :gneJ315_7_0
+:gneJ299_2_0 9.03 gneE333_1
+:gneJ299_3_0 14.19 -gneE332_1
+:gneJ295_0_0 14.40 -gneE328_1
+:gneJ295_1_0 5.93 :gneJ295_6_0
+:gneJ292_6_0 8.26 gneE354_1
+:gneJ309_2_0 4.75 :gneJ309_6_0
+:gneJ309_3_0 14.40 -gneE343_1
+:gneJ313_12_0 4.28 -gneE347_1
+:gneJ313_13_0 8.26 gneE348_1
+gneE362_1 92.80 :gneJ323_0_0
+:gneJ302_1_0 0.10 gneE336_1
+:gneJ273_4_0 14.40 gneE305_1
+:gneJ273_5_0 5.93 :gneJ273_7_0
+-gneE296_1 92.80 :gneJ266_6_0 :gneJ266_7_0 :gneJ266_8_0
+:gneJ251_0_0 0.10 -gneE278_1
+:gneJ247_6_0 8.26 gneE280_1
+-gneE269_1 100.00 :gneJ241_0_0
+:gneJ245_0_0 9.03 -gneE272_1
+:gneJ245_1_0 14.19 gneE298_1
+:gneJ266_9_0 9.03 gneE296_1
+:gneJ266_10_0 14.40 gneE307_1
+:gneJ266_11_0 14.19 -gneE295_1
+:gneJ257_1_0 0.10 gneE288_1
+:gneJ101_0_0 0.10 -gneE107_1
+gneE509_1 100.00 :gneJ452_1_0
+:gneJ421_1_0 0.10 gneE475_1
+-gneE32_1 94.80 :gneJ37_1_0
+gneE370_1 92.80 :gneJ330_0_0 :gneJ330_1_0
+gneE373_1 100.00 :gneJ333_0_0
+gneE350_1 92.80 :gneJ316_1_0
+:gneJ315_7_0 8.26 -gneE363_1
+-gneE332_1 92.80 :gneJ298_0_0
+:gneJ295_6_0 8.26 gneE356_1
+:gneJ309_6_0 4.28 -gneE357_1
+-gneE347_1 92.80 :gneJ312_0_0
+:gneJ323_0_0 0.10 gneE363_1
+gneE336_1 92.80 :gneJ290_9_0 :gneJ290_10_0 :gneJ290_11_0
+gneE305_1 92.80 :gneJ274_1_0
+:gneJ273_7_0 8.26 -gneE312_1
+:gneJ266_6_0 4.75 :gneJ266_14_0
+:gneJ266_7_0 14.40 -gneE295_1
+:gneJ266_8_0 5.93 :gneJ266_15_0
+-gneE278_1 92.80 :gneJ250_0_0 :gneJ250_1_0
+:gneJ241_0_0 0.10 -gneE268_1
+-gneE272_1 92.80 :gneJ244_0_0
+gneE296_1 92.80 :gneJ267_0_0
+gneE307_1 92.80 :gneJ276_1_0
+-gneE295_1 92.80 :gneJ265_1_0
+gneE288_1 100.00 :gneJ258_1_0
+-gneE107_1 94.80 :gneJ23_0_0
+:gneJ452_1_0 0.10 gneE510_1
+gneE475_1 92.80 :gneJ330_4_0 :gneJ330_5_0
+:gneJ37_1_0 0.10 -gneE31_1
+:gneJ330_0_0 9.03 -gneE475_1
+:gneJ330_1_0 14.19 gneE476_1
+:gneJ333_0_0 0.10 gneE374_1
+:gneJ316_1_0 0.10 gneE351_1
+-gneE363_1 92.80 :gneJ323_1_0
+:gneJ298_0_0 0.10 -gneE331_1
+:gneJ312_0_0 0.10 -gneE346_1
+gneE363_1 92.80 :gneJ315_0_0 :gneJ315_1_0
+:gneJ290_9_0 9.03 gneE352_1
+:gneJ290_10_0 14.40 gneE395_1
+:gneJ290_11_0 14.19 -gneE323_1
+:gneJ274_1_0 0.10 gneE306_1
+-gneE312_1 92.80 :gneJ280_1_0
+:gneJ266_14_0 4.28 gneE307_1
+:gneJ266_15_0 8.26 -gneE301_1
+:gneJ250_0_0 14.40 -gneE277_1
+:gneJ250_1_0 5.93 :gneJ250_6_0
+-gneE268_1 92.80 :gneJ240_2_0 :gneJ240_3_0
+:gneJ244_0_0 0.10 -gneE271_1
+:gneJ267_0_0 0.10 gneE297_1
+:gneJ276_1_0 0.10 gneE308_1
+:gneJ265_1_0 0.10 -gneE294_1
+:gneJ258_1_0 0.10 gneE289_1
+:gneJ23_0_0 10.97 -gneE19_1
+gneE510_1 100.00 :gneJ453_1_0
+:gneJ330_4_0 14.40 gneE476_1
+:gneJ330_5_0 5.93 :gneJ330_7_0
+-gneE31_1 100.00 :gneJ36_1_0
+-gneE475_1 92.80 :gneJ421_0_0
+gneE476_1 92.80 :gneJ422_1_0
+gneE374_1 100.00 :gneJ334_0_0
+gneE351_1 92.80 :gneJ317_4_0 :gneJ317_5_0
+:gneJ323_1_0 0.10 -gneE362_1
+-gneE331_1 92.80 :gneJ297_0_0 :gneJ297_1_0
+-gneE346_1 92.80 :gneJ311_3_0 :gneJ311_4_0 :gneJ311_5_0
+:gneJ315_0_0 9.03 -gneE349_1
+:gneJ315_1_0 14.19 gneE350_1
+gneE352_1 92.80 :gneJ318_0_0
+gneE395_1 92.80 :gneJ354_1_0
+-gneE323_1 92.80 :gneJ289_1_0
+gneE306_1 92.80 :gneJ275_9_0 :gneJ275_10_0 :gneJ275_11_0
+:gneJ280_1_0 0.10 -gneE311_1
+-gneE301_1 92.80 :gneJ270_0_0
+:gneJ250_6_0 8.26 gneE282_1
+:gneJ240_2_0 4.75 :gneJ240_6_0
+:gneJ240_3_0 14.40 -gneE267_1
+-gneE271_1 92.80 :gneJ243_2_0 :gneJ243_3_0
+gneE297_1 92.80 :gneJ268_0_0 :gneJ268_1_0
+gneE308_1 92.80 :gneJ277_4_0 :gneJ277_5_0
+-gneE294_1 100.00 :gneJ264_1_0
+gneE289_1 100.00 :gneJ259_1_0
+-gneE19_1 94.80 :gneJ22_0_0
+:gneJ453_1_0 0.10 gneE511_1
+:gneJ330_7_0 8.26 -gneE370_1
+:gneJ36_1_0 0.10 -gneE30_1
+:gneJ421_0_0 0.10 -gneE474_1
+:gneJ422_1_0 0.10 gneE477_1
+:gneJ334_0_0 0.10 gneE375_1
+:gneJ317_4_0 14.40 gneE401_1
+:gneJ317_5_0 5.93 :gneJ317_7_0
+-gneE362_1 92.80 :gneJ301_2_0 :gneJ301_3_0
+:gneJ297_0_0 14.40 gneE330_1
+:gneJ297_1_0 5.93 :gneJ297_6_0
+:gneJ311_3_0 9.03 -gneE359_1
+:gneJ311_4_0 14.40 -gneE345_1
+:gneJ311_5_0 14.19 gneE364_1
+-gneE349_1 92.80 :gneJ314_0_0
+:gneJ318_0_0 0.10 gneE353_1
+:gneJ354_1_0 0.10 gneE396_1
+:gneJ289_1_0 0.10 -gneE322_1
+:gneJ275_9_0 9.03 gneE315_1
+:gneJ275_10_0 14.40 -gneE385_1
+:gneJ275_11_0 14.19 -gneE314_1
+-gneE311_1 92.80 :gneJ277_2_0 :gneJ277_3_0
+:gneJ270_0_0 0.10 -gneE300_1
+:gneJ240_6_0 4.28 -gneE281_1
+:gneJ243_2_0 4.75 :gneJ243_6_0
+:gneJ243_3_0 14.40 -gneE270_1
+:gneJ268_0_0 9.03 -gneE299_1
+:gneJ268_1_0 14.19 gneE303_1
+:gneJ277_4_0 4.75 :gneJ277_7_0
+:gneJ277_5_0 14.40 gneE309_1
+:gneJ264_1_0 0.10 -gneE293_1
+:gneJ259_1_0 0.10 gneE290_1
+:gneJ22_0_0 0.10 -gneE18_1
+gneE511_1 92.80 :gneJ260_4_0 :gneJ260_5_0
+-gneE370_1 92.80 :gneJ329_1_0
+-gneE30_1 100.00 :gneJ35_1_0
+-gneE474_1 100.00 :gneJ420_0_0
+gneE477_1 92.80 :gneJ335_4_0 :gneJ335_5_0
+gneE375_1 92.80 :gneJ335_0_0 :gneJ335_1_0
+gneE401_1 92.80 :gneJ357_1_0
+:gneJ317_7_0 8.26 -gneE353_1
+:gneJ301_2_0 9.03 gneE335_1
+:gneJ301_3_0 14.19 -gneE334_1
+:gneJ297_6_0 8.26 gneE358_1
+:gneJ314_0_0 0.10 -gneE348_1
+gneE353_1 92.80 :gneJ317_0_0 :gneJ317_1_0
+gneE396_1 92.80 :gneJ353_9_0 :gneJ353_10_0 :gneJ353_11_0
+-gneE322_1 100.00 :gneJ288_1_0
+gneE315_1 92.80 :gneJ282_0_0
+-gneE385_1 92.80 :gneJ344_1_0
+-gneE314_1 92.80 :gneJ281_1_0
+:gneJ277_2_0 9.03 gneE309_1
+:gneJ277_3_0 14.19 -gneE308_1
+-gneE300_1 92.80 :gneJ252_3_0 :gneJ252_4_0 :gneJ252_5_0
+:gneJ243_6_0 4.28 -gneE283_1
+-gneE299_1 92.80 :gneJ269_0_0
+:gneJ277_7_0 4.28 gneE311_1
+gneE309_1 92.80 :gneJ278_1_0
+-gneE293_1 100.00 :gneJ263_1_0
+gneE290_1 92.80 :gneJ260_2_0 :gneJ260_3_0
+-gneE18_1 100.00 :gneJ21_0_0
+:gneJ260_4_0 4.75 :gneJ260_7_0
+:gneJ260_5_0 14.40 gneE512_1
+:gneJ329_1_0 0.10 -gneE369_1
+:gneJ35_1_0 0.10 -gneE29_1
+:gneJ420_0_0 0.10 -gneE473_1
+:gneJ335_4_0 14.40 gneE478_1
+:gneJ335_5_0 5.93 :gneJ335_7_0
+:gneJ335_0_0 9.03 -gneE477_1
+:gneJ335_1_0 14.19 gneE478_1
+:gneJ357_1_0 0.10 gneE402_1
+-gneE353_1 92.80 :gneJ318_1_0
+-gneE334_1 92.80 :gneJ300_0_0
+-gneE348_1 92.80 :gneJ313_3_0 :gneJ313_4_0 :gneJ313_5_0
+:gneJ317_0_0 9.03 -gneE351_1
+:gneJ317_1_0 14.19 gneE401_1
+:gneJ353_9_0 9.03 gneE532_1
+:gneJ353_10_0 14.40 gneE404_1
+:gneJ353_11_0 14.19 -gneE394_1
+:gneJ288_1_0 0.10 -gneE321_1
+:gneJ282_0_0 0.10 gneE316_1
+:gneJ344_1_0 0.10 -gneE384_1
+:gneJ281_1_0 0.10 -gneE313_1
+-gneE308_1 92.80 :gneJ276_0_0
+:gneJ252_3_0 9.03 gneE286_1
+:gneJ252_4_0 14.40 -gneE279_1
+:gneJ252_5_0 14.19 gneE284_1
+:gneJ269_0_0 0.10 -gneE298_1
+gneE311_1 92.80 :gneJ280_0_0
+:gneJ278_1_0 0.10 gneE310_1
+:gneJ263_1_0 0.10 -gneE292_1
+:gneJ260_2_0 9.03 gneE512_1
+:gneJ260_3_0 14.19 -gneE511_1
+:gneJ21_0_0 0.10 -gneE17_1
+:gneJ260_7_0 4.28 -gneE290_1
+gneE512_1 92.80 :gneJ454_1_0
+-gneE369_1 100.00 :gneJ328_1_0
+-gneE29_1 100.00 :gneJ34_1_0
+-gneE473_1 100.00 :gneJ419_0_0
+gneE478_1 92.80 :gneJ423_1_0
+:gneJ335_7_0 8.26 -gneE375_1
+-gneE477_1 92.80 :gneJ422_0_0
+gneE402_1 92.80 :gneJ358_4_0 :gneJ358_5_0
+:gneJ318_1_0 0.10 -gneE352_1
+:gneJ300_0_0 0.10 -gneE333_1
+:gneJ313_3_0 9.03 -gneE361_1
+:gneJ313_4_0 14.40 -gneE347_1
+:gneJ313_5_0 14.19 gneE371_1
+-gneE351_1 92.80 :gneJ316_0_0
+gneE532_1 92.80 :gneJ472_0_0
+gneE404_1 92.80 :gneJ359_1_0
+-gneE394_1 92.80 :gneJ352_1_0
+-gneE321_1 92.80 :gneJ287_4_0 :gneJ287_5_0
+gneE316_1 100.00 :gneJ283_0_0
+-gneE384_1 92.80 :gneJ343_9_0 :gneJ343_10_0 :gneJ343_11_0
+-gneE313_1 92.80 :gneJ279_2_0 :gneJ279_3_0
+:gneJ276_0_0 0.10 -gneE307_1
+-gneE298_1 92.80 :gneJ245_2_0 :gneJ245_3_0
+:gneJ280_0_0 0.10 gneE312_1
+gneE310_1 92.80 :gneJ279_4_0 :gneJ279_5_0
+-gneE292_1 100.00 :gneJ262_1_0
+-gneE511_1 92.80 :gneJ453_0_0
+-gneE17_1 100.00 :gneJ20_0_0
+-gneE290_1 92.80 :gneJ259_0_0
+:gneJ454_1_0 0.10 gneE513_1
+:gneJ328_1_0 0.10 -gneE368_1
+:gneJ34_1_0 0.10 -gneE28_1
+:gneJ419_0_0 0.10 -gneE472_1
+:gneJ423_1_0 0.10 gneE479_1
+-gneE375_1 92.80 :gneJ334_1_0
+:gneJ422_0_0 0.10 -gneE476_1
+:gneJ358_4_0 14.40 gneE414_1
+:gneJ358_5_0 5.93 :gneJ358_7_0
+-gneE352_1 92.80 :gneJ290_6_0 :gneJ290_7_0 :gneJ290_8_0
+-gneE333_1 92.80 :gneJ299_0_0 :gneJ299_1_0
+:gneJ316_0_0 0.10 -gneE350_1
+:gneJ472_0_0 0.10 gneE533_1
+:gneJ359_1_0 0.10 gneE405_1
+:gneJ352_1_0 0.10 -gneE393_1
+:gneJ287_4_0 4.75 :gneJ287_7_0
+:gneJ287_5_0 14.40 -gneE320_1
+:gneJ283_0_0 0.10 gneE317_1
+:gneJ343_9_0 9.03 gneE386_1
+:gneJ343_10_0 14.40 gneE432_1
+:gneJ343_11_0 14.19 -gneE383_1
+:gneJ279_2_0 9.03 gneE380_1
+:gneJ279_3_0 14.19 -gneE310_1
+-gneE307_1 92.80 :gneJ266_3_0 :gneJ266_4_0 :gneJ266_5_0
+:gneJ245_2_0 4.75 :gneJ245_6_0
+:gneJ245_3_0 14.40 -gneE272_1
+gneE312_1 92.80 :gneJ273_0_0 :gneJ273_1_0
+:gneJ279_4_0 4.75 :gneJ279_7_0
+:gneJ279_5_0 14.40 gneE380_1
+:gneJ262_1_0 0.10 -gneE291_1
+:gneJ453_0_0 0.10 -gneE510_1
+:gneJ20_0_0 0.10 -gneE16_1
+:gneJ259_0_0 0.10 -gneE289_1
+gneE513_1 92.80 :gneJ261_4_0 :gneJ261_5_0
+-gneE368_1 100.00 :gneJ327_1_0
+-gneE28_1 92.80 :gneJ33_4_0 :gneJ33_5_0
+-gneE472_1 100.00 :gneJ418_0_0
+gneE479_1 100.00 :gneJ424_1_0
+:gneJ334_1_0 0.10 -gneE374_1
+-gneE476_1 92.80 :gneJ330_2_0 :gneJ330_3_0
+gneE414_1 92.80 :gneJ369_1_0
+:gneJ358_7_0 8.26 -gneE533_1
+:gneJ290_6_0 4.75 :gneJ290_14_0
+:gneJ290_7_0 14.40 -gneE323_1
+:gneJ290_8_0 5.93 :gneJ290_15_0
+:gneJ299_0_0 14.40 -gneE332_1
+:gneJ299_1_0 5.93 :gneJ299_6_0
+-gneE350_1 92.80 :gneJ315_2_0 :gneJ315_3_0
+gneE533_1 92.80 :gneJ358_0_0 :gneJ358_1_0
+gneE405_1 92.80 :gneJ360_4_0 :gneJ360_5_0
+-gneE393_1 100.00 :gneJ351_1_0
+:gneJ287_7_0 4.28 gneE397_1
+-gneE320_1 92.80 :gneJ286_1_0
+gneE317_1 92.80 :gneJ284_0_0 :gneJ284_1_0
+gneE386_1 92.80 :gneJ345_0_0
+gneE432_1 92.80 :gneJ384_1_0
+-gneE383_1 92.80 :gneJ342_1_0
+gneE380_1 92.80 :gneJ340_1_0
+-gneE310_1 92.80 :gneJ278_0_0
+:gneJ266_3_0 9.03 -gneE295_1
+:gneJ266_4_0 14.40 -gneE301_1
+:gneJ266_5_0 14.19 gneE296_1
+:gneJ245_6_0 4.28 -gneE285_1
+:gneJ273_0_0 9.03 -gneE304_1
+:gneJ273_1_0 14.19 gneE305_1
+:gneJ279_7_0 4.28 gneE313_1
+-gneE291_1 92.80 :gneJ261_2_0 :gneJ261_3_0
+-gneE510_1 100.00 :gneJ452_0_0
+-gneE16_1 100.00 :gneJ19_0_0
+-gneE289_1 100.00 :gneJ258_0_0
+:gneJ261_4_0 4.75 :gneJ261_7_0
+:gneJ261_5_0 14.40 gneE514_1
+:gneJ327_1_0 0.10 gneE367_1
+:gneJ33_4_0 4.75 :gneJ33_7_0
+:gneJ33_5_0 14.40 -gneE27_1
+:gneJ418_0_0 0.10 -gneE471_1
+:gneJ424_1_0 0.10 gneE480_1
+-gneE374_1 100.00 :gneJ333_1_0
+:gneJ330_2_0 4.75 :gneJ330_6_0
+:gneJ330_3_0 14.40 -gneE475_1
+:gneJ369_1_0 0.10 gneE415_1
+-gneE533_1 92.80 :gneJ472_1_0
+:gneJ290_14_0 4.28 gneE395_1
+:gneJ290_15_0 8.26 -gneE336_1
+:gneJ299_6_0 8.26 gneE360_1
+:gneJ315_2_0 4.75 :gneJ315_6_0
+:gneJ315_3_0 14.40 -gneE349_1
+:gneJ358_0_0 9.03 -gneE402_1
+:gneJ358_1_0 14.19 gneE414_1
+:gneJ360_4_0 4.75 :gneJ360_7_0
+:gneJ360_5_0 14.40 gneE406_1
+:gneJ351_1_0 0.10 -gneE392_1
+gneE397_1 92.80 :gneJ355_1_0
+:gneJ286_1_0 0.10 -gneE319_1
+:gneJ284_0_0 14.40 gneE318_1
+:gneJ284_1_0 5.93 :gneJ284_6_0
+:gneJ345_0_0 0.10 gneE387_1
+:gneJ384_1_0 0.10 gneE433_1
+:gneJ342_1_0 0.10 -gneE382_1
+:gneJ340_1_0 0.10 gneE381_1
+:gneJ278_0_0 0.10 -gneE309_1
+-gneE304_1 92.80 :gneJ272_0_0
+gneE313_1 92.80 :gneJ281_0_0
+:gneJ261_2_0 9.03 gneE514_1
+:gneJ261_3_0 14.19 -gneE513_1
+:gneJ452_0_0 0.10 -gneE509_1
+:gneJ19_0_0 0.10 -gneE15_1
+:gneJ258_0_0 0.10 -gneE288_1
+:gneJ261_7_0 4.28 gneE291_1
+gneE514_1 92.80 :gneJ455_1_0
+gneE367_1 100.00 :gneJ324_1_0
+:gneJ33_7_0 4.28 gneE40_1
+-gneE471_1 100.00 :gneJ417_0_0
+gneE480_1 100.00 :gneJ425_1_0
+:gneJ333_1_0 0.10 -gneE373_1
+:gneJ330_6_0 4.28 -gneE370_1
+gneE415_1 92.80 :gneJ370_4_0 :gneJ370_5_0
+:gneJ472_1_0 0.10 -gneE532_1
+-gneE336_1 92.80 :gneJ302_0_0
+:gneJ315_6_0 4.28 -gneE363_1
+-gneE402_1 92.80 :gneJ357_0_0
+:gneJ360_7_0 4.28 gneE421_1
+gneE406_1 92.80 :gneJ361_1_0
+-gneE392_1 92.80 :gneJ350_2_0 :gneJ350_3_0
+:gneJ355_1_0 0.10 gneE398_1
+-gneE319_1 100.00 :gneJ285_1_0
+gneE318_1 92.80 :gneJ285_0_0
+:gneJ284_6_0 8.26 gneE399_1
+gneE387_1 100.00 :gneJ346_0_0
+gneE433_1 92.80 :gneJ385_4_0 :gneJ385_5_0
+-gneE382_1 92.80 :gneJ341_2_0 :gneJ341_3_0
+gneE381_1 92.80 :gneJ341_4_0 :gneJ341_5_0
+-gneE309_1 92.80 :gneJ277_0_0 :gneJ277_1_0
+:gneJ272_0_0 0.10 -gneE303_1
+:gneJ281_0_0 0.10 gneE314_1
+-gneE513_1 92.80 :gneJ454_0_0
+-gneE509_1 100.00 :gneJ451_0_0
+-gneE15_1 92.80 :gneJ17_0_0 :gneJ17_1_0
+-gneE288_1 100.00 :gneJ257_0_0
+gneE291_1 92.80 :gneJ262_0_0
+:gneJ455_1_0 0.10 gneE515_1
+:gneJ324_1_0 0.10 -gneE364_1
+:gneJ417_0_0 0.10 -gneE470_1
+:gneJ425_1_0 0.10 gneE481_1
+-gneE373_1 100.00 :gneJ332_1_0
+:gneJ370_4_0 14.40 gneE416_1
+:gneJ370_5_0 5.93 :gneJ370_7_0
+-gneE532_1 92.80 :gneJ353_6_0 :gneJ353_7_0 :gneJ353_8_0
+:gneJ302_0_0 0.10 -gneE335_1
+:gneJ357_0_0 0.10 -gneE401_1
+gneE421_1 92.80 :gneJ375_0_0
+:gneJ361_1_0 0.10 gneE407_1
+:gneJ350_2_0 14.40 -gneE391_1
+:gneJ350_3_0 5.93 :gneJ350_7_0
+gneE398_1 92.80 :gneJ350_4_0 :gneJ350_5_0
+:gneJ285_1_0 0.10 -gneE318_1
+:gneJ285_0_0 0.10 gneE319_1
+gneE399_1 92.80 :gneJ356_1_0
+:gneJ346_0_0 0.10 gneE388_1
+:gneJ385_4_0 14.40 gneE434_1
+:gneJ385_5_0 5.93 :gneJ385_7_0
+:gneJ341_2_0 9.03 gneE425_1
+:gneJ341_3_0 14.19 -gneE381_1
+:gneJ341_4_0 4.75 :gneJ341_7_0
+:gneJ341_5_0 14.40 gneE425_1
+:gneJ277_0_0 14.40 -gneE308_1
+:gneJ277_1_0 5.93 :gneJ277_6_0
+-gneE303_1 92.80 :gneJ268_2_0 :gneJ268_3_0
+gneE314_1 92.80 :gneJ275_0_0 :gneJ275_1_0 :gneJ275_2_0
+:gneJ454_0_0 0.10 -gneE512_1
+:gneJ451_0_0 0.10 -gneE508_1
+:gneJ17_0_0 14.40 -gneE13_1
+:gneJ17_1_0 5.93 :gneJ17_6_0
+:gneJ257_0_0 0.10 -gneE287_1
+:gneJ262_0_0 0.10 gneE292_1
+gneE515_1 100.00 :gneJ456_1_0
+-gneE364_1 92.80 :gneJ311_6_0 :gneJ311_7_0 :gneJ311_8_0
+-gneE470_1 100.00 :gneJ416_0_0
+gneE481_1 100.00 :gneJ426_1_0
+:gneJ332_1_0 0.10 -gneE372_1
+gneE416_1 92.80 :gneJ371_1_0
+:gneJ370_7_0 8.26 -gneE422_1
+:gneJ353_6_0 4.75 :gneJ353_14_0
+:gneJ353_7_0 14.40 -gneE394_1
+:gneJ353_8_0 5.93 :gneJ353_15_0
+-gneE335_1 92.80 :gneJ301_0_0 :gneJ301_1_0
+-gneE401_1 92.80 :gneJ317_2_0 :gneJ317_3_0
+:gneJ375_0_0 0.10 gneE422_1
+gneE407_1 100.00 :gneJ362_1_0
+-gneE391_1 92.80 :gneJ349_1_0
+:gneJ350_7_0 8.26 -gneE398_1
+:gneJ350_4_0 9.03 gneE392_1
+:gneJ350_5_0 14.19 -gneE391_1
+-gneE318_1 92.80 :gneJ284_4_0 :gneJ284_5_0
+gneE319_1 100.00 :gneJ286_0_0
+:gneJ356_1_0 0.10 gneE400_1
+gneE388_1 92.80 :gneJ347_0_0 :gneJ347_1_0
+gneE434_1 92.80 :gneJ386_1_0
+:gneJ385_7_0 8.26 -gneE440_1
+gneE425_1 92.80 :gneJ377_1_0
+-gneE381_1 92.80 :gneJ340_0_0
+:gneJ341_7_0 4.28 gneE382_1
+:gneJ277_6_0 8.26 gneE311_1
+:gneJ268_2_0 4.75 :gneJ268_6_0
+:gneJ268_3_0 14.40 -gneE299_1
+:gneJ275_0_0 4.75 :gneJ275_12_0
+:gneJ275_1_0 14.40 gneE315_1
+:gneJ275_2_0 5.93 :gneJ275_13_0
+-gneE512_1 92.80 :gneJ260_0_0 :gneJ260_1_0
+-gneE508_1 100.00 :gneJ450_0_0
+:gneJ17_6_0 8.26 gneE55_1
+-gneE287_1 100.00 :gneJ256_0_0
+gneE292_1 100.00 :gneJ263_0_0
+:gneJ456_1_0 0.10 gneE516_1
+:gneJ311_6_0 4.75 :gneJ311_14_0
+:gneJ311_7_0 14.40 -gneE359_1
+:gneJ311_8_0 5.93 :gneJ311_15_0
+:gneJ416_0_0 0.10 -gneE469_1
+:gneJ426_1_0 0.10 gneE482_1
+-gneE372_1 100.00 :gneJ331_1_0
+:gneJ371_1_0 0.10 gneE417_1
+-gneE422_1 92.80 :gneJ375_1_0
+:gneJ353_14_0 4.28 gneE404_1
+:gneJ353_15_0 8.26 -gneE396_1
+:gneJ301_0_0 14.40 -gneE334_1
+:gneJ301_1_0 5.93 :gneJ301_6_0
+:gneJ317_2_0 4.75 :gneJ317_6_0
+:gneJ317_3_0 14.40 -gneE351_1
+gneE422_1 92.80 :gneJ370_0_0 :gneJ370_1_0
+:gneJ362_1_0 0.10 gneE408_1
+:gneJ349_1_0 0.10 -gneE390_1
+-gneE398_1 92.80 :gneJ355_0_0
+gneE392_1 92.80 :gneJ351_0_0
+:gneJ284_4_0 4.75 :gneJ284_7_0
+:gneJ284_5_0 14.40 -gneE317_1
+:gneJ286_0_0 0.10 gneE320_1
+gneE400_1 92.80 :gneJ347_4_0 :gneJ347_5_0
+:gneJ347_0_0 4.75 :gneJ347_6_0
+:gneJ347_1_0 14.40 gneE389_1
+:gneJ386_1_0 0.10 -gneE435_1
+-gneE440_1 92.80 :gneJ391_1_0
+:gneJ377_1_0 0.10 gneE426_1
+:gneJ340_0_0 0.10 -gneE380_1
+gneE382_1 92.80 :gneJ342_0_0
+:gneJ268_6_0 4.28 -gneE297_1
+:gneJ275_12_0 4.28 -gneE306_1
+:gneJ275_13_0 8.26 -gneE385_1
+:gneJ260_0_0 14.40 -gneE511_1
+:gneJ260_1_0 5.93 :gneJ260_6_0
+:gneJ450_0_0 0.10 -gneE507_1
+:gneJ256_0_0 0.10 -gneE286_1
+:gneJ263_0_0 0.10 gneE293_1
+gneE516_1 100.00 :gneJ457_1_0
+:gneJ311_14_0 4.28 gneE346_1
+:gneJ311_15_0 8.26 -gneE345_1
+-gneE469_1 100.00 :gneJ415_0_0
+gneE482_1 100.00 :gneJ427_1_0
+:gneJ331_1_0 0.10 -gneE371_1
+gneE417_1 100.00 :gneJ372_1_0
+:gneJ375_1_0 0.10 -gneE421_1
+-gneE396_1 92.80 :gneJ354_0_0
+:gneJ301_6_0 8.26 gneE362_1
+:gneJ317_6_0 4.28 -gneE353_1
+:gneJ370_0_0 9.03 -gneE415_1
+:gneJ370_1_0 14.19 gneE416_1
+gneE408_1 92.80 :gneJ363_4_0 :gneJ363_5_0
+-gneE390_1 100.00 :gneJ348_1_0
+:gneJ355_0_0 0.10 -gneE397_1
+:gneJ351_0_0 0.10 gneE393_1
+:gneJ284_7_0 4.28 gneE399_1
+-gneE317_1 92.80 :gneJ283_1_0
+gneE320_1 92.80 :gneJ287_0_0 :gneJ287_1_0
+:gneJ347_4_0 9.03 gneE389_1
+:gneJ347_5_0 14.19 -gneE388_1
+:gneJ347_6_0 4.28 -gneE400_1
+gneE389_1 92.80 :gneJ348_0_0
+-gneE435_1 100.00 :gneJ387_1_0
+:gneJ391_1_0 0.10 -gneE439_1
+gneE426_1 92.80 :gneJ378_4_0 :gneJ378_5_0
+-gneE380_1 92.80 :gneJ279_0_0 :gneJ279_1_0
+:gneJ342_0_0 0.10 gneE383_1
+-gneE306_1 92.80 :gneJ274_0_0
+:gneJ260_6_0 8.26 -gneE290_1
+-gneE507_1 100.00 :gneJ449_0_0
+-gneE286_1 92.80 :gneJ252_0_0 :gneJ252_1_0 :gneJ252_2_0
+gneE293_1 100.00 :gneJ264_0_0
+:gneJ457_1_0 0.10 gneE517_1
+:gneJ415_0_0 0.10 -gneE468_1
+:gneJ427_1_0 0.10 -gneE483_1
+-gneE371_1 92.80 :gneJ313_6_0 :gneJ313_7_0 :gneJ313_8_0
+:gneJ372_1_0 0.10 gneE418_1
+-gneE421_1 92.80 :gneJ360_2_0 :gneJ360_3_0
+:gneJ354_0_0 0.10 -gneE395_1
+-gneE415_1 92.80 :gneJ369_0_0
+:gneJ363_4_0 4.75 :gneJ363_7_0
+:gneJ363_5_0 14.40 gneE409_1
+:gneJ348_1_0 0.10 -gneE389_1
+-gneE397_1 92.80 :gneJ287_2_0 :gneJ287_3_0
+gneE393_1 100.00 :gneJ352_0_0
+:gneJ283_1_0 0.10 -gneE316_1
+:gneJ287_0_0 14.40 gneE321_1
+:gneJ287_1_0 5.93 :gneJ287_6_0
+-gneE388_1 92.80 :gneJ346_1_0
+-gneE400_1 92.80 :gneJ356_0_0
+:gneJ348_0_0 0.10 gneE390_1
+:gneJ387_1_0 0.10 gneE436_1
+-gneE439_1 92.80 :gneJ378_2_0 :gneJ378_3_0
+:gneJ378_4_0 4.75 :gneJ378_7_0
+:gneJ378_5_0 14.40 gneE427_1
+:gneJ279_0_0 14.40 -gneE310_1
+:gneJ279_1_0 5.93 :gneJ279_6_0
+gneE383_1 92.80 :gneJ343_0_0 :gneJ343_1_0 :gneJ343_2_0
+:gneJ274_0_0 0.10 -gneE305_1
+:gneJ449_0_0 0.10 -gneE506_1
+:gneJ252_0_0 4.75 :gneJ252_12_0
+:gneJ252_1_0 14.40 gneE284_1
+:gneJ252_2_0 5.93 :gneJ252_13_0
+:gneJ264_0_0 0.10 gneE294_1
+gneE517_1 100.00 :gneJ458_1_0
+-gneE468_1 100.00 :gneJ414_0_0
+-gneE483_1 100.00 :gneJ428_1_0
+:gneJ313_6_0 4.75 :gneJ313_14_0
+:gneJ313_7_0 14.40 -gneE361_1
+:gneJ313_8_0 5.93 :gneJ313_15_0
+gneE418_1 92.80 :gneJ373_4_0 :gneJ373_5_0
+:gneJ360_2_0 9.03 gneE406_1
+:gneJ360_3_0 14.19 -gneE405_1
+-gneE395_1 92.80 :gneJ290_3_0 :gneJ290_4_0 :gneJ290_5_0
+:gneJ369_0_0 0.10 -gneE414_1
+:gneJ363_7_0 4.28 gneE423_1
+gneE409_1 92.80 :gneJ364_1_0
+-gneE389_1 92.80 :gneJ347_2_0 :gneJ347_3_0
+:gneJ287_2_0 9.03 -gneE320_1
+:gneJ287_3_0 14.19 gneE321_1
+:gneJ352_0_0 0.10 gneE394_1
+-gneE316_1 100.00 :gneJ282_1_0
+gneE321_1 92.80 :gneJ288_0_0
+:gneJ287_6_0 8.26 gneE397_1
+:gneJ346_1_0 0.10 -gneE387_1
+:gneJ356_0_0 0.10 -gneE399_1
+gneE390_1 100.00 :gneJ349_0_0
+gneE436_1 92.80 :gneJ388_4_0 :gneJ388_5_0
+:gneJ378_2_0 9.03 gneE427_1
+:gneJ378_3_0 14.19 -gneE426_1
+:gneJ378_7_0 4.28 gneE439_1
+gneE427_1 92.80 :gneJ379_1_0
+:gneJ279_6_0 8.26 gneE313_1
+:gneJ343_0_0 4.75 :gneJ343_12_0
+:gneJ343_1_0 14.40 gneE386_1
+:gneJ343_2_0 5.93 :gneJ343_13_0
+-gneE305_1 92.80 :gneJ273_2_0 :gneJ273_3_0
+-gneE506_1 100.00 :gneJ448_0_0
+:gneJ252_12_0 4.28 -gneE279_1
+:gneJ252_13_0 8.26 gneE300_1
+gneE294_1 100.00 :gneJ265_0_0
+:gneJ458_1_0 0.10 -gneE518_1
+:gneJ414_0_0 0.10 -gneE467_1
+:gneJ428_1_0 0.10 gneE484_1
+:gneJ313_14_0 4.28 gneE348_1
+:gneJ313_15_0 8.26 -gneE347_1
+:gneJ373_4_0 14.40 gneE419_1
+:gneJ373_5_0 5.93 :gneJ373_7_0
+-gneE405_1 92.80 :gneJ359_0_0
+:gneJ290_3_0 9.03 -gneE323_1
+:gneJ290_4_0 14.40 -gneE336_1
+:gneJ290_5_0 14.19 gneE352_1
+-gneE414_1 92.80 :gneJ358_2_0 :gneJ358_3_0
+gneE423_1 92.80 :gneJ376_0_0
+:gneJ364_1_0 0.10 gneE410_1
+:gneJ347_2_0 14.40 -gneE388_1
+:gneJ347_3_0 5.93 :gneJ347_7_0
+gneE394_1 92.80 :gneJ353_0_0 :gneJ353_1_0 :gneJ353_2_0
+:gneJ282_1_0 0.10 -gneE315_1
+:gneJ288_0_0 0.10 gneE322_1
+-gneE387_1 100.00 :gneJ345_1_0
+-gneE399_1 92.80 :gneJ284_2_0 :gneJ284_3_0
+:gneJ349_0_0 0.10 gneE391_1
+:gneJ388_4_0 14.40 gneE437_1
+:gneJ388_5_0 5.93 :gneJ388_7_0
+-gneE426_1 92.80 :gneJ377_0_0
+gneE439_1 92.80 :gneJ391_0_0
+:gneJ379_1_0 0.10 gneE428_1
+:gneJ343_12_0 4.28 gneE384_1
+:gneJ343_13_0 8.26 gneE432_1
+:gneJ273_2_0 4.75 :gneJ273_6_0
+:gneJ273_3_0 14.40 -gneE304_1
+:gneJ448_0_0 0.10 -gneE505_1
+:gneJ265_0_0 0.10 gneE295_1
+-gneE518_1 100.00 :gneJ459_1_0
+-gneE467_1 100.00 :gneJ413_0_0
+gneE484_1 100.00 :gneJ429_1_0
+gneE419_1 92.80 :gneJ374_1_0
+:gneJ373_7_0 8.26 -gneE424_1
+:gneJ359_0_0 0.10 -gneE404_1
+:gneJ358_2_0 4.75 :gneJ358_6_0
+:gneJ358_3_0 14.40 -gneE402_1
+:gneJ376_0_0 0.10 gneE424_1
+gneE410_1 92.80 :gneJ365_4_0 :gneJ365_5_0
+:gneJ347_7_0 8.26 -gneE400_1
+:gneJ353_0_0 4.75 :gneJ353_12_0
+:gneJ353_1_0 14.40 gneE532_1
+:gneJ353_2_0 5.93 :gneJ353_13_0
+-gneE315_1 92.80 :gneJ275_6_0 :gneJ275_7_0 :gneJ275_8_0
+gneE322_1 100.00 :gneJ289_0_0
+:gneJ345_1_0 0.10 -gneE386_1
+:gneJ284_2_0 9.03 -gneE317_1
+:gneJ284_3_0 14.19 gneE318_1
+gneE391_1 92.80 :gneJ350_0_0 :gneJ350_1_0
+gneE437_1 92.80 :gneJ389_1_0
+:gneJ388_7_0 8.26 -gneE442_1
+:gneJ377_0_0 0.10 -gneE425_1
+:gneJ391_0_0 0.10 gneE440_1
+gneE428_1 100.00 :gneJ380_1_0
+gneE384_1 92.80 :gneJ344_0_0
+:gneJ273_6_0 4.28 -gneE312_1
+-gneE505_1 100.00 :gneJ447_0_0
+gneE295_1 92.80 :gneJ266_0_0 :gneJ266_1_0 :gneJ266_2_0
+:gneJ459_1_0 0.10 gneE519_1
+:gneJ413_0_0 0.10 -gneE466_1
+:gneJ429_1_0 0.10 gneE485_1
+:gneJ374_1_0 0.10 gneE420_1
+-gneE424_1 92.80 :gneJ376_1_0
+-gneE404_1 92.80 :gneJ353_3_0 :gneJ353_4_0 :gneJ353_5_0
+:gneJ358_6_0 4.28 -gneE533_1
+gneE424_1 92.80 :gneJ373_0_0 :gneJ373_1_0
+:gneJ365_4_0 9.03 gneE412_1
+:gneJ365_5_0 14.19 -gneE454_1
+:gneJ353_12_0 4.28 -gneE396_1
+:gneJ353_13_0 8.26 gneE404_1
+:gneJ275_6_0 4.75 :gneJ275_14_0
+:gneJ275_7_0 14.40 -gneE314_1
+:gneJ275_8_0 5.93 :gneJ275_15_0
+:gneJ289_0_0 0.10 gneE323_1
+-gneE386_1 92.80 :gneJ343_6_0 :gneJ343_7_0 :gneJ343_8_0
+:gneJ350_0_0 4.75 :gneJ350_6_0
+:gneJ350_1_0 14.40 gneE392_1
+:gneJ389_1_0 0.10 gneE438_1
+-gneE442_1 92.80 :gneJ392_1_0
+-gneE425_1 92.80 :gneJ341_0_0 :gneJ341_1_0
+gneE440_1 92.80 :gneJ385_0_0 :gneJ385_1_0
+:gneJ380_1_0 0.10 gneE429_1
+:gneJ344_0_0 0.10 gneE385_1
+:gneJ447_0_0 0.10 -gneE504_1
+:gneJ266_0_0 4.75 :gneJ266_12_0
+:gneJ266_1_0 14.40 gneE296_1
+:gneJ266_2_0 5.93 :gneJ266_13_0
+gneE519_1 100.00 :gneJ460_1_0
+-gneE466_1 100.00 :gneJ412_0_0
+gneE485_1 100.00 :gneJ430_1_0
+gneE420_1 92.80 :gneJ368_4_0 :gneJ368_5_0
+:gneJ376_1_0 0.10 -gneE423_1
+:gneJ353_3_0 9.03 -gneE394_1
+:gneJ353_4_0 14.40 -gneE396_1
+:gneJ353_5_0 14.19 gneE532_1
+:gneJ373_0_0 9.03 -gneE418_1
+:gneJ373_1_0 14.19 gneE419_1
+gneE412_1 92.80 :gneJ367_0_0
+-gneE454_1 92.80 :gneJ402_1_0
+:gneJ275_14_0 4.28 -gneE385_1
+:gneJ275_15_0 8.26 -gneE306_1
+gneE323_1 92.80 :gneJ290_0_0 :gneJ290_1_0 :gneJ290_2_0
+:gneJ343_6_0 4.75 :gneJ343_14_0
+:gneJ343_7_0 14.40 -gneE383_1
+:gneJ343_8_0 5.93 :gneJ343_15_0
+:gneJ350_6_0 4.28 -gneE398_1
+gneE438_1 92.80 :gneJ390_4_0 :gneJ390_5_0
+:gneJ392_1_0 0.10 -gneE441_1
+:gneJ341_0_0 14.40 -gneE381_1
+:gneJ341_1_0 5.93 :gneJ341_6_0
+:gneJ385_0_0 9.03 -gneE433_1
+:gneJ385_1_0 14.19 gneE434_1
+gneE429_1 92.80 :gneJ381_4_0 :gneJ381_5_0
+gneE385_1 92.80 :gneJ275_3_0 :gneJ275_4_0 :gneJ275_5_0
+-gneE504_1 100.00 :gneJ446_0_0
+:gneJ266_12_0 4.28 -gneE301_1
+:gneJ266_13_0 8.26 gneE307_1
+:gneJ460_1_0 0.10 gneE520_1
+:gneJ412_0_0 0.10 -gneE465_1
+:gneJ430_1_0 0.10 gneE486_1
+:gneJ368_4_0 9.03 -gneE495_1
+:gneJ368_5_0 14.19 -gneE413_1
+-gneE423_1 92.80 :gneJ363_2_0 :gneJ363_3_0
+-gneE418_1 92.80 :gneJ372_0_0
+:gneJ367_0_0 0.10 gneE413_1
+:gneJ402_1_0 0.10 -gneE453_1
+:gneJ290_0_0 4.75 :gneJ290_12_0
+:gneJ290_1_0 14.40 gneE352_1
+:gneJ290_2_0 5.93 :gneJ290_13_0
+:gneJ343_14_0 4.28 gneE432_1
+:gneJ343_15_0 8.26 gneE384_1
+:gneJ390_4_0 9.03 gneE445_1
+:gneJ390_5_0 14.19 -gneE444_1
+-gneE441_1 92.80 :gneJ381_2_0 :gneJ381_3_0
+:gneJ341_6_0 8.26 gneE382_1
+-gneE433_1 92.80 :gneJ384_0_0
+:gneJ381_4_0 4.75 :gneJ381_7_0
+:gneJ381_5_0 14.40 gneE430_1
+:gneJ275_3_0 9.03 -gneE314_1
+:gneJ275_4_0 14.40 -gneE306_1
+:gneJ275_5_0 14.19 gneE315_1
+:gneJ446_0_0 0.10 -gneE503_1
+gneE520_1 100.00 :gneJ461_1_0
+-gneE465_1 100.00 :gneJ411_0_0
+gneE486_1 100.00 :gneJ431_1_0
+-gneE495_1 92.80 :gneJ439_0_0
+-gneE413_1 92.80 :gneJ367_1_0
+:gneJ363_2_0 9.03 gneE409_1
+:gneJ363_3_0 14.19 -gneE408_1
+:gneJ372_0_0 0.10 -gneE417_1
+gneE413_1 92.80 :gneJ368_0_0 :gneJ368_1_0
+-gneE453_1 100.00 :gneJ401_1_0
+:gneJ290_12_0 4.28 -gneE336_1
+:gneJ290_13_0 8.26 gneE395_1
+gneE445_1 92.80 :gneJ394_0_0
+-gneE444_1 92.80 :gneJ393_1_0
+:gneJ381_2_0 9.03 gneE430_1
+:gneJ381_3_0 14.19 -gneE429_1
+:gneJ384_0_0 0.10 -gneE432_1
+:gneJ381_7_0 4.28 gneE441_1
+gneE430_1 92.80 :gneJ382_1_0
+-gneE503_1 100.00 :gneJ445_0_0
+:gneJ461_1_0 0.10 gneE521_1
+:gneJ411_0_0 0.10 -gneE464_1
+:gneJ431_1_0 0.10 gneE487_1
+:gneJ439_0_0 0.10 -gneE494_1
+:gneJ367_1_0 0.10 -gneE412_1
+-gneE408_1 92.80 :gneJ362_0_0
+-gneE417_1 100.00 :gneJ371_0_0
+:gneJ368_0_0 4.75 :gneJ368_6_0
+:gneJ368_1_0 14.40 -gneE495_1
+:gneJ401_1_0 0.10 -gneE452_1
+:gneJ394_0_0 0.10 gneE446_1
+:gneJ393_1_0 0.10 -gneE443_1
+-gneE429_1 92.80 :gneJ380_0_0
+-gneE432_1 92.80 :gneJ343_3_0 :gneJ343_4_0 :gneJ343_5_0
+gneE441_1 92.80 :gneJ392_0_0
+:gneJ382_1_0 0.10 gneE431_1
+:gneJ445_0_0 0.10 -gneE502_1
+gneE521_1 100.00 :gneJ462_1_0
+-gneE464_1 100.00 :gneJ410_0_0
+gneE487_1 100.00 :gneJ432_1_0
+-gneE494_1 100.00 :gneJ438_0_0
+-gneE412_1 92.80 :gneJ365_2_0 :gneJ365_3_0
+:gneJ362_0_0 0.10 -gneE407_1
+:gneJ371_0_0 0.10 -gneE416_1
+:gneJ368_6_0 4.28 -gneE420_1
+-gneE452_1 100.00 :gneJ400_1_0
+gneE446_1 100.00 :gneJ395_0_0
+-gneE443_1 92.80 :gneJ383_2_0 :gneJ383_3_0
+:gneJ380_0_0 0.10 -gneE428_1
+:gneJ343_3_0 9.03 -gneE383_1
+:gneJ343_4_0 14.40 gneE384_1
+:gneJ343_5_0 14.19 gneE386_1
+:gneJ392_0_0 0.10 gneE442_1
+gneE431_1 92.80 :gneJ383_4_0 :gneJ383_5_0
+-gneE502_1 100.00 :gneJ443_0_0
+:gneJ462_1_0 0.10 gneE522_1
+:gneJ410_0_0 0.10 -gneE463_1
+:gneJ432_1_0 0.10 gneE488_1
+:gneJ438_0_0 0.10 -gneE493_1
+:gneJ365_2_0 14.40 -gneE454_1
+:gneJ365_3_0 5.93 :gneJ365_7_0
+-gneE407_1 100.00 :gneJ361_0_0
+-gneE416_1 92.80 :gneJ370_2_0 :gneJ370_3_0
+-gneE420_1 92.80 :gneJ374_0_0
+:gneJ400_1_0 0.10 -gneE451_1
+:gneJ395_0_0 0.10 gneE447_1
+:gneJ383_2_0 14.40 -gneE531_1
+:gneJ383_3_0 5.93 :gneJ383_7_0
+-gneE428_1 100.00 :gneJ379_0_0
+gneE442_1 92.80 :gneJ388_0_0 :gneJ388_1_0
+:gneJ383_4_0 9.03 gneE443_1
+:gneJ383_5_0 14.19 -gneE531_1
+:gneJ443_0_0 0.10 gneE500_1
+gneE522_1 100.00 :gneJ463_1_0
+-gneE463_1 92.80 :gneJ219_2_0 :gneJ219_3_0
+gneE488_1 100.00 :gneJ433_1_0
+-gneE493_1 100.00 :gneJ437_0_0
+:gneJ365_7_0 8.26 -gneE410_1
+:gneJ361_0_0 0.10 -gneE406_1
+:gneJ370_2_0 4.75 :gneJ370_6_0
+:gneJ370_3_0 14.40 -gneE415_1
+:gneJ374_0_0 0.10 -gneE419_1
+-gneE451_1 92.80 :gneJ399_4_0 :gneJ399_5_0
+gneE447_1 100.00 :gneJ396_0_0
+-gneE531_1 92.80 :gneJ471_1_0
+:gneJ383_7_0 8.26 -gneE431_1
+:gneJ379_0_0 0.10 -gneE427_1
+:gneJ388_0_0 9.03 -gneE436_1
+:gneJ388_1_0 14.19 gneE437_1
+gneE443_1 92.80 :gneJ393_0_0
+gneE500_1 100.00 :gneJ442_0_0
+:gneJ463_1_0 0.10 gneE523_1
+:gneJ219_2_0 4.75 :gneJ219_6_0
+:gneJ219_3_0 14.40 -gneE462_1
+:gneJ433_1_0 0.10 gneE489_1
+:gneJ437_0_0 0.10 -gneE492_1
+-gneE410_1 92.80 :gneJ364_0_0
+-gneE406_1 92.80 :gneJ360_0_0 :gneJ360_1_0
+:gneJ370_6_0 4.28 -gneE422_1
+-gneE419_1 92.80 :gneJ373_2_0 :gneJ373_3_0
+:gneJ399_4_0 4.75 :gneJ399_7_0
+:gneJ399_5_0 14.40 -gneE450_1
+:gneJ396_0_0 0.10 gneE449_1
+:gneJ471_1_0 0.10 -gneE530_1
+-gneE431_1 92.80 :gneJ382_0_0
+-gneE427_1 92.80 :gneJ378_0_0 :gneJ378_1_0
+-gneE436_1 92.80 :gneJ387_0_0
+:gneJ393_0_0 0.10 gneE444_1
+:gneJ442_0_0 0.10 -gneE499_1
+gneE523_1 100.00 :gneJ464_1_0
+:gneJ219_6_0 4.28 -gneE241_1
+gneE489_1 100.00 :gneJ434_1_0
+-gneE492_1 100.00 :gneJ436_0_0
+:gneJ364_0_0 0.10 -gneE409_1
+:gneJ360_0_0 14.40 -gneE405_1
+:gneJ360_1_0 5.93 :gneJ360_6_0
+:gneJ373_2_0 4.75 :gneJ373_6_0
+:gneJ373_3_0 14.40 -gneE418_1
+:gneJ399_7_0 4.28 gneE458_1
+-gneE450_1 85.60 :gneJ398_4_0 :gneJ398_5_0
+gneE449_1 92.80 :gneJ398_0_0 :gneJ398_1_0
+-gneE530_1 100.00 :gneJ470_1_0
+:gneJ382_0_0 0.10 -gneE430_1
+:gneJ378_0_0 14.40 -gneE426_1
+:gneJ378_1_0 5.93 :gneJ378_6_0
+:gneJ387_0_0 0.10 gneE435_1
+gneE444_1 92.80 :gneJ390_0_0 :gneJ390_1_0
+-gneE499_1 100.00 :gneJ441_0_0
+:gneJ464_1_0 0.10 gneE524_1
+:gneJ434_1_0 0.10 gneE490_1
+:gneJ436_0_0 0.10 -gneE491_1
+-gneE409_1 92.80 :gneJ363_0_0 :gneJ363_1_0
+:gneJ360_6_0 8.26 gneE421_1
+:gneJ373_6_0 4.28 -gneE424_1
+gneE458_1 92.80 :gneJ406_1_0
+:gneJ398_4_0 4.75 :gneJ398_7_0
+:gneJ398_5_0 14.40 -gneE449_1
+:gneJ398_0_0 14.40 gneE450_1
+:gneJ398_1_0 5.93 :gneJ398_6_0
+:gneJ470_1_0 0.10 gneE529_1
+-gneE430_1 92.80 :gneJ381_0_0 :gneJ381_1_0
+:gneJ378_6_0 8.26 gneE439_1
+gneE435_1 100.00 :gneJ386_0_0
+:gneJ390_0_0 4.75 :gneJ390_6_0
+:gneJ390_1_0 14.40 gneE445_1
+:gneJ441_0_0 0.10 -gneE498_1
+gneE524_1 100.00 :gneJ465_1_0
+gneE490_1 94.80 :gneJ435_1_0
+-gneE491_1 94.80 :gneJ435_0_0
+:gneJ363_0_0 14.40 -gneE408_1
+:gneJ363_1_0 5.93 :gneJ363_6_0
+:gneJ406_1_0 0.10 gneE459_1
+:gneJ398_7_0 4.28 gneE455_1
+-gneE449_1 92.80 :gneJ396_1_0
+gneE450_1 85.60 :gneJ399_0_0 :gneJ399_1_0
+:gneJ398_6_0 8.26 gneE455_1
+gneE529_1 100.00 :gneJ469_1_0
+:gneJ381_0_0 14.40 -gneE429_1
+:gneJ381_1_0 5.93 :gneJ381_6_0
+:gneJ386_0_0 0.10 -gneE434_1
+:gneJ390_6_0 4.28 -gneE438_1
+-gneE498_1 92.80 :gneJ185_0_0 :gneJ185_1_0
+:gneJ465_1_0 0.10 gneE525_1
+:gneJ435_1_0 10.97 gneE491_1
+:gneJ435_0_0 5.81 -gneE490_1
+:gneJ363_6_0 8.26 gneE423_1
+gneE459_1 100.00 :gneJ407_1_0
+gneE455_1 92.80 :gneJ403_1_0
+:gneJ396_1_0 0.10 -gneE447_1
+:gneJ399_0_0 14.40 gneE451_1
+:gneJ399_1_0 5.93 :gneJ399_6_0
+:gneJ469_1_0 0.10 -gneE528_1
+:gneJ381_6_0 8.26 gneE441_1
+-gneE434_1 92.80 :gneJ385_2_0 :gneJ385_3_0
+-gneE438_1 92.80 :gneJ389_0_0
+:gneJ185_0_0 14.40 -gneE497_1
+:gneJ185_1_0 5.93 :gneJ185_6_0
+gneE525_1 100.00 :gneJ466_1_0
+gneE491_1 94.80 :gneJ436_1_0
+-gneE490_1 94.80 :gneJ434_0_0
+:gneJ407_1_0 0.10 gneE460_1
+:gneJ403_1_0 0.10 gneE456_1
+-gneE447_1 100.00 :gneJ395_1_0
+gneE451_1 92.80 :gneJ400_0_0
+:gneJ399_6_0 8.26 gneE458_1
+-gneE528_1 100.00 :gneJ468_1_0
+:gneJ385_2_0 4.75 :gneJ385_6_0
+:gneJ385_3_0 14.40 -gneE433_1
+:gneJ389_0_0 0.10 -gneE437_1
+:gneJ185_6_0 8.26 -gneE200_1
+:gneJ466_1_0 0.10 gneE526_1
+:gneJ436_1_0 0.10 gneE492_1
+:gneJ434_0_0 0.10 -gneE489_1
+gneE456_1 100.00 :gneJ404_1_0
+:gneJ395_1_0 0.10 -gneE446_1
+:gneJ400_0_0 0.10 gneE452_1
+:gneJ468_1_0 0.10 -gneE527_1
+:gneJ385_6_0 4.28 -gneE440_1
+-gneE437_1 92.80 :gneJ388_2_0 :gneJ388_3_0
+gneE526_1 94.80 :gneJ467_1_0
+gneE492_1 100.00 :gneJ437_1_0
+-gneE489_1 100.00 :gneJ433_0_0
+:gneJ404_1_0 0.10 gneE457_1
+-gneE446_1 100.00 :gneJ394_1_0
+gneE452_1 100.00 :gneJ401_0_0
+-gneE527_1 94.80 :gneJ467_0_0
+:gneJ388_2_0 4.75 :gneJ388_6_0
+:gneJ388_3_0 14.40 -gneE436_1
+:gneJ467_1_0 5.81 gneE527_1
+:gneJ437_1_0 0.10 gneE493_1
+:gneJ433_0_0 0.10 -gneE488_1
+:gneJ394_1_0 0.10 -gneE445_1
+:gneJ401_0_0 0.10 gneE453_1
+:gneJ467_0_0 10.97 -gneE526_1
+:gneJ388_6_0 4.28 -gneE442_1
+gneE527_1 94.80 :gneJ468_0_0
+gneE493_1 100.00 :gneJ438_1_0
+-gneE488_1 100.00 :gneJ432_0_0
+-gneE445_1 92.80 :gneJ390_2_0 :gneJ390_3_0
+gneE453_1 100.00 :gneJ402_0_0
+-gneE526_1 94.80 :gneJ466_0_0
+:gneJ468_0_0 0.10 gneE528_1
+:gneJ438_1_0 0.10 gneE494_1
+:gneJ432_0_0 0.10 -gneE487_1
+:gneJ390_2_0 14.40 -gneE444_1
+:gneJ390_3_0 5.93 :gneJ390_7_0
+:gneJ402_0_0 0.10 gneE454_1
+:gneJ466_0_0 0.10 -gneE525_1
+gneE528_1 100.00 :gneJ469_0_0
+gneE494_1 100.00 :gneJ439_1_0
+-gneE487_1 100.00 :gneJ431_0_0
+:gneJ390_7_0 8.26 -gneE438_1
+gneE454_1 92.80 :gneJ365_0_0 :gneJ365_1_0
+-gneE525_1 100.00 :gneJ465_0_0
+:gneJ469_0_0 0.10 -gneE529_1
+:gneJ439_1_0 0.10 gneE495_1
+:gneJ431_0_0 0.10 -gneE486_1
+:gneJ365_0_0 4.75 :gneJ365_6_0
+:gneJ365_1_0 14.40 gneE412_1
+:gneJ465_0_0 0.10 -gneE524_1
+-gneE529_1 100.00 :gneJ470_0_0
+gneE495_1 92.80 :gneJ368_2_0 :gneJ368_3_0
+-gneE486_1 100.00 :gneJ430_0_0
+:gneJ365_6_0 4.28 -gneE410_1
+-gneE524_1 100.00 :gneJ464_0_0
+:gneJ470_0_0 0.10 gneE530_1
+:gneJ368_2_0 14.40 -gneE413_1
+:gneJ368_3_0 5.93 :gneJ368_7_0
+:gneJ430_0_0 0.10 -gneE485_1
+:gneJ464_0_0 0.10 -gneE523_1
+gneE530_1 100.00 :gneJ471_0_0
+:gneJ368_7_0 8.26 -gneE420_1
+-gneE485_1 100.00 :gneJ429_0_0
+-gneE523_1 100.00 :gneJ463_0_0
+:gneJ471_0_0 0.10 gneE531_1
+:gneJ429_0_0 0.10 -gneE484_1
+:gneJ463_0_0 0.10 -gneE522_1
+gneE531_1 92.80 :gneJ383_0_0 :gneJ383_1_0
+-gneE484_1 100.00 :gneJ428_0_0
+-gneE522_1 100.00 :gneJ462_0_0
+:gneJ383_0_0 4.75 :gneJ383_6_0
+:gneJ383_1_0 14.40 gneE443_1
+:gneJ428_0_0 0.10 gneE483_1
+:gneJ462_0_0 0.10 -gneE521_1
+:gneJ383_6_0 4.28 -gneE431_1
+gneE483_1 100.00 :gneJ427_0_0
+-gneE521_1 100.00 :gneJ461_0_0
+:gneJ427_0_0 0.10 -gneE482_1
+:gneJ461_0_0 0.10 -gneE520_1
+-gneE482_1 100.00 :gneJ426_0_0
+-gneE520_1 100.00 :gneJ460_0_0
+:gneJ426_0_0 0.10 -gneE481_1
+:gneJ460_0_0 0.10 -gneE519_1
+-gneE481_1 100.00 :gneJ425_0_0
+-gneE519_1 100.00 :gneJ459_0_0
+:gneJ425_0_0 0.10 -gneE480_1
+:gneJ459_0_0 0.10 gneE518_1
+-gneE480_1 100.00 :gneJ424_0_0
+gneE518_1 100.00 :gneJ458_0_0
+:gneJ424_0_0 0.10 -gneE479_1
+:gneJ458_0_0 0.10 -gneE517_1
+-gneE479_1 100.00 :gneJ423_0_0
+-gneE517_1 100.00 :gneJ457_0_0
+:gneJ423_0_0 0.10 -gneE478_1
+:gneJ457_0_0 0.10 -gneE516_1
+-gneE478_1 92.80 :gneJ335_2_0 :gneJ335_3_0
+-gneE516_1 100.00 :gneJ456_0_0
+:gneJ335_2_0 4.75 :gneJ335_6_0
+:gneJ335_3_0 14.40 -gneE477_1
+:gneJ456_0_0 0.10 -gneE515_1
+:gneJ335_6_0 4.28 -gneE375_1
+-gneE515_1 100.00 :gneJ455_0_0
+:gneJ455_0_0 0.10 -gneE514_1
+-gneE514_1 92.80 :gneJ261_0_0 :gneJ261_1_0
+:gneJ261_0_0 14.40 -gneE513_1
+:gneJ261_1_0 5.93 :gneJ261_6_0
+:gneJ261_6_0 8.26 gneE291_1
